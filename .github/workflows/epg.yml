@@ -1,0 +1,35 @@
+name: Generate CWTV EPG
+
+on:
+  schedule:
+    - cron: '0 0,12 * * *'  # Runs every 12 hours (at 00:00 and 12:00 UTC)
+  workflow_dispatch:  # Allows manual triggering from the Actions tab
+
+jobs:
+  generate-epg:
+    runs-on: ubuntu-latest  # Uses a Linux runner (GitHub-hosted)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # Matches the script's environment
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests  # Only requests is non-standard; others are built-in
+
+      - name: Run EPG script
+        run: python cwtv.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add cwtv_epg.xml || true  # Add the XML if generated
+          git commit -m 'Update EPG XML' || echo "No changes to commit"
+          git push || echo "No changes to push"
