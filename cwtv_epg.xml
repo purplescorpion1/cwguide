@@ -288,26 +288,6 @@
     <display-name>The Dick Van Dyke Show</display-name>
     <icon src="https://images.cwtv.com/images_170855/masters/cw/universal/channels/the-dick-van-dyke-show/channel-icon-unfocused.png"/>
   </channel>
-  <programme start="20250921192556 +0000" stop="20250921201805 +0000" channel="cw-forever">
-    <title>Charmed</title>
-    <sub-title>The Witch is Back</sub-title>
-    <desc>A warlock from the past is released from his curse and tries to steal the sisters' powers</desc>
-  </programme>
-  <programme start="20250921201805 +0000" stop="20250921211012 +0000" channel="cw-forever">
-    <title>Charmed</title>
-    <sub-title>Wicca Envy</sub-title>
-    <desc>Prue is framed by her boss, Rex, for stealing from the auction house and murdering to cover up the theft.</desc>
-  </programme>
-  <programme start="20250921211012 +0000" stop="20250921220218 +0000" channel="cw-forever">
-    <title>Charmed</title>
-    <sub-title>Feats of Clay</sub-title>
-    <desc>When Phoebe's ex-boyfriend comes to town he brings trouble in the form of a stolen Egyptian urn</desc>
-  </programme>
-  <programme start="20250921220218 +0000" stop="20250921225325 +0000" channel="cw-forever">
-    <title>Charmed</title>
-    <sub-title>The Wendigo</sub-title>
-    <desc>When Piper is attacked by a vicious beast, Andy goes on a stakeout with an FBI agent</desc>
-  </programme>
   <programme start="20250921225325 +0000" stop="20250921234523 +0000" channel="cw-forever">
     <title>Charmed</title>
     <sub-title>From Here to Eternity</sub-title>
@@ -393,9 +373,25 @@
     <sub-title>Buckle Up</sub-title>
     <desc>Lou and Henry discover the accidental death of a rodeo champion was in fact murder.</desc>
   </programme>
-  <programme start="20250921171827 +0000" stop="20250921200228 +0000" channel="cw-gold">
-    <title>Transformers: Revenge of the Fallen</title>
-    <desc>The battle for Earth continues when Sam Witwicky learns the truth about the origins of the Transformers</desc>
+  <programme start="20250922131710 +0000" stop="20250922140715 +0000" channel="cw-forever">
+    <title>Good Cop/Bad Cop</title>
+    <sub-title>Skeletons</sub-title>
+    <desc>Revelations threaten to tear Eden Vale apart as the killer from a decades-old murder is revealed.</desc>
+  </programme>
+  <programme start="20250922140715 +0000" stop="20250922145657 +0000" channel="cw-forever">
+    <title>Good Cop/Bad Cop</title>
+    <sub-title>Peace in the Valley</sub-title>
+    <desc>The Eden Vale Police Chief coaxes his estranged son home to partner with his detective big sister.</desc>
+  </programme>
+  <programme start="20250922145657 +0000" stop="20250922154611 +0000" channel="cw-forever">
+    <title>Good Cop/Bad Cop</title>
+    <sub-title>The King's Assassin</sub-title>
+    <desc>Lou and Henry investigate the suspicious death of a crypto bro who ate a poisonous mushroom.</desc>
+  </programme>
+  <programme start="20250922154611 +0000" stop="20250922163617 +0000" channel="cw-forever">
+    <title>Wild Cards</title>
+    <sub-title>The Big Bang Theory</sub-title>
+    <desc>When Chief Li and Max are trapped in the police station by a bomb, Ellis tries to get them out safely.</desc>
   </programme>
   <programme start="20250921200228 +0000" stop="20250921231022 +0000" channel="cw-gold">
     <title>Transformers: Age of Extinction</title>
@@ -433,20 +429,15 @@
     <sub-title>Welcome NXT's Newest Superstar</sub-title>
     <desc>NXT's newest Superstar signs a historic contract amongst chaos.</desc>
   </programme>
-  <programme start="20250921191855 +0000" stop="20250921201228 +0000" channel="penn-teller-fool-us">
-    <title>Penn &amp; Teller: Fool Us</title>
-    <sub-title>Penn's Stupid Rope Trick</sub-title>
-    <desc>The magicians featured in the episode include Sora, Jaana Felicitas, Mario Lopez and Clinton W. Gray.</desc>
+  <programme start="20250922133945 +0000" stop="20250922152615 +0000" channel="cw-gold">
+    <title>WWE NXT</title>
+    <sub-title>Ricky Saints In-ring Debut</sub-title>
+    <desc>Ricky Saints makes his in-ring debut. TNA Tag Team Champions The Hardy Boyz battle No Quarter Catch Crew.</desc>
   </programme>
-  <programme start="20250921201228 +0000" stop="20250921210413 +0000" channel="penn-teller-fool-us">
-    <title>Penn &amp; Teller: Fool Us</title>
-    <sub-title>A Magical Punch in the Face</sub-title>
-    <desc>The magicians featured in the episode include Sanjeev Vinodh, Mortenn Christiansen, Giancarlo Bernini and...</desc>
-  </programme>
-  <programme start="20250921210413 +0000" stop="20250921215615 +0000" channel="penn-teller-fool-us">
-    <title>Penn &amp; Teller: Fool Us</title>
-    <sub-title>Penn &amp; Tarot</sub-title>
-    <desc>The magicians featured in the episode include Simon Coronel, John Morton, Alberto Giorgi and Makoto Halver...</desc>
+  <programme start="20250922152615 +0000" stop="20250922161555 +0000" channel="cw-gold">
+    <title>Numbers</title>
+    <sub-title>12:01:00 AM</sub-title>
+    <desc>The team has only hours to investigate a tip that could exonerate a dangerous mob boss before his execution.</desc>
   </programme>
   <programme start="20250921215615 +0000" stop="20250921225037 +0000" channel="penn-teller-fool-us">
     <title>Penn &amp; Teller: Fool Us</title>
@@ -533,6 +524,21 @@
     <sub-title>Magic Socks Big Time</sub-title>
     <desc>The magicians featured in the episode include Gabriella Lester, Howard Blackwell, Horret Wu &amp; Dr. Michael...</desc>
   </programme>
+  <programme start="20250922130433 +0000" stop="20250922135555 +0000" channel="penn-teller-fool-us">
+    <title>Penn &amp; Teller: Fool Us</title>
+    <sub-title>Penn &amp; Teller Double Down</sub-title>
+    <desc>The magicians featured in the episode include Tattoo (Penn &amp; Teller and Gloria Estefan), Sigfried Tieber...</desc>
+  </programme>
+  <programme start="20250922135555 +0000" stop="20250922144931 +0000" channel="penn-teller-fool-us">
+    <title>Penn &amp; Teller: Fool Us</title>
+    <sub-title>The Evil Magic Octopus</sub-title>
+    <desc>The magicians featured in the episode include Damien James, Mantas, Andy Gershenzon and Alejandro Linian.</desc>
+  </programme>
+  <programme start="20250922144931 +0000" stop="20250922154241 +0000" channel="penn-teller-fool-us">
+    <title>Penn &amp; Teller: Fool Us</title>
+    <sub-title>Teller Deflowers a Shadow</sub-title>
+    <desc>The magicians featured in the episode include Scott &amp; Puck, Eric Jones, Mark Calabrese and Paul Vigil.</desc>
+  </programme>
   <programme start="20250921193000 +0000" stop="20250922010000 +0000" channel="tennis-channel-2">
     <title>Laver Cup 2025</title>
     <sub-title>Laver Cup : Day 2</sub-title>
@@ -563,15 +569,10 @@
     <sub-title>Hangzhou-ATP- Semifinals</sub-title>
     <desc>Live coverage from Hangzhou 2025</desc>
   </programme>
-  <programme start="20250921190004 +0000" stop="20250921203408 +0000" channel="pac-12-insider">
-    <title>Gymnastics</title>
-    <sub-title>2023 Oregon State at UCLA</sub-title>
-    <desc>Olympic medalists Jade Carey (Oregon State) and Jordan Chiles (UCLA) highlight ‘Equity Meet’ (1/29/23)</desc>
-  </programme>
-  <programme start="20250921203408 +0000" stop="20250921220439 +0000" channel="pac-12-insider">
-    <title>Gymnastics</title>
-    <sub-title>2023 Oregon State at Washington</sub-title>
-    <desc>Jade Carey completes sixty-six (66) individual victories on bars, vault and beam in win at Washington (2/4/23)</desc>
+  <programme start="20250922133000 +0000" stop="20250922190000 +0000" channel="tennis-channel-2">
+    <title>Laver Cup-Live</title>
+    <sub-title>Laver Cup-Live : Day 3</sub-title>
+    <desc>Live coverage from Laver Cup 2025</desc>
   </programme>
   <programme start="20250921220439 +0000" stop="20250921233018 +0000" channel="pac-12-insider">
     <title>Gymnastics</title>
@@ -623,9 +624,10 @@
     <sub-title>2000 Oregon at Oregon State</sub-title>
     <desc>A top-10 clash between rivals as the #8 Beavers hosts #5 Oregon with the Pac-10 title on the line.</desc>
   </programme>
-  <programme start="20250921163000 +0000" stop="20250921200000 +0000" channel="acc-digital-network">
-    <title>Duke vs. Wake Forest (11.25.17) Football Replay</title>
-    <desc>Daniel Jones led the Duke Blue Devils against the Wake Forest Demon Deacons.</desc>
+  <programme start="20250922150000 +0000" stop="20250922170005 +0000" channel="pac-12-insider">
+    <title>Football Encore</title>
+    <sub-title>2004 Oregon at Oregon State</sub-title>
+    <desc>Derek Anderson's 4 TD's make Oregon State Beavers bowl-eligible in big win over Oregon (11/20/04)</desc>
   </programme>
   <programme start="20250921200000 +0000" stop="20250921233000 +0000" channel="acc-digital-network">
     <title>Florida State vs. Virginia (11.2.95) Football Replay</title>
@@ -651,10 +653,9 @@
     <title>Louisville vs. Georgia Tech (10.9.20) Football Replay</title>
     <desc>Jahmyr Gibbs picked up 121 yards and 2 touchdowns in the victory over the Cards.</desc>
   </programme>
-  <programme start="20250921150000 +0000" stop="20250921210000 +0000" channel="pickleball-tv">
-    <title>PPA Tour: Las Vegas</title>
-    <sub-title>Championship Sunday - Encore</sub-title>
-    <desc>Encore Pickleball coverage from PPA Tour: Las Vegas Open</desc>
+  <programme start="20250922150000 +0000" stop="20250922210000 +0000" channel="acc-digital-network">
+    <title>Pitt vs. Boston College (10.10.20) Football Replay</title>
+    <desc>Zay Flowers had a big day vs. the Panthers.</desc>
   </programme>
   <programme start="20250921210000 +0000" stop="20250922030000 +0000" channel="pickleball-tv">
     <title>PPA Tour: Las Vegas</title>
@@ -681,20 +682,10 @@
     <sub-title>Championship Sunday - Encore</sub-title>
     <desc>Encore Pickleball coverage from PPA Tour: San Clemente Cup</desc>
   </programme>
-  <programme start="20250921190000 +0000" stop="20250921200000 +0000" channel="ion">
-    <title>NCIS</title>
-    <sub-title>The Stories We Leave Behind</sub-title>
-    <desc>As NCIS mourns the loss of Ducky, the agents work on one of his unfinished cases.</desc>
-  </programme>
-  <programme start="20250921200000 +0000" stop="20250921210000 +0000" channel="ion">
-    <title>NCIS</title>
-    <sub-title>Lifeline</sub-title>
-    <desc>Walk-a-Mile day takes a turn when Kasie receives a distress call from a mysterious man.</desc>
-  </programme>
-  <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="ion">
-    <title>NCIS</title>
-    <sub-title>Left Unsaid</sub-title>
-    <desc>The team races against time to find an officer who disappears during his wedding proposal.</desc>
+  <programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="pickleball-tv">
+    <title>Pickleball Weekly</title>
+    <sub-title>Episode 34</sub-title>
+    <desc>Pickleball Weekly Episode 34</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="ion">
     <title>NCIS</title>
@@ -776,20 +767,20 @@
     <sub-title>The Ex Factor</sub-title>
     <desc>Marissa and her estranged husband are charged with money laundering and fraud.</desc>
   </programme>
-  <programme start="20250921190000 +0000" stop="20250921200000 +0000" channel="ion-plus">
-    <title>Murdoch Mysteries</title>
-    <sub-title>A Most Surprising Bond</sub-title>
-    <desc>A mysterious illness appears at Odgen's newly opened women's hospital.</desc>
+  <programme start="20250922140000 +0000" stop="20250922150000 +0000" channel="ion">
+    <title>Bull</title>
+    <sub-title>Fallen Idols</sub-title>
+    <desc>Bull worries he can't convince a jury his religious leader client didn't kill his wife.</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921210000 +0000" channel="ion-plus">
-    <title>Magnum</title>
-    <sub-title>Day the Past Came Back</sub-title>
-    <desc>Magnum discovers that his ex is on the island and plans to steal a fortune in gold.</desc>
+  <programme start="20250922150000 +0000" stop="20250922160000 +0000" channel="ion">
+    <title>Chicago P.D.</title>
+    <sub-title>Assignment of the Year</sub-title>
+    <desc>Asher is killed while Antonio is on his security duty; Halstead and Lindsay go undercover.</desc>
   </programme>
-  <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="ion-plus">
-    <title>Magnum</title>
-    <sub-title>Murder Is Never Quiet</sub-title>
-    <desc>Magnum is hired by a woman to prove that her son didn't kill his girlfriend.</desc>
+  <programme start="20250922160000 +0000" stop="20250922170000 +0000" channel="ion">
+    <title>Chicago P.D.</title>
+    <sub-title>Called in Dead</sub-title>
+    <desc>Following a big heroin bust, Olinsky learns that the suspects are holding his wife hostage.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="ion-plus">
     <title>Magnum</title>
@@ -861,20 +852,20 @@
     <sub-title>Murder They Wrote</sub-title>
     <desc>A young writer close to fame and fortune is threatened and then a famous guest drops dead.</desc>
   </programme>
-  <programme start="20250921190000 +0000" stop="20250921200000 +0000" channel="ion-mystery">
-    <title>Hawaii Five-0</title>
-    <sub-title>Ua 'o'oloku ke anu i na mauna</sub-title>
-    <desc>A scuba diver is killed with a gun that was used in a recent murder.</desc>
+  <programme start="20250922140000 +0000" stop="20250922150000 +0000" channel="ion-plus">
+    <title>Private Eyes</title>
+    <sub-title>Angie Get Your Gun</sub-title>
+    <desc>Shade and Angie learn that a pair of Billy the Kid's cowboy boots have gone missing from a museum.</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921210000 +0000" channel="ion-mystery">
-    <title>Hawaii Five-0</title>
-    <sub-title>Ka Papahana Holo Pono</sub-title>
-    <desc>A wealthy recluse's corpse is found in a field with almost $1 million in counterfeit bills.</desc>
+  <programme start="20250922150000 +0000" stop="20250922160000 +0000" channel="ion-plus">
+    <title>Private Eyes</title>
+    <sub-title>Shadow of a Doubt</sub-title>
+    <desc>A computer programmer hires Shade and Angie to recover a hard drive.</desc>
   </programme>
-  <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="ion-mystery">
-    <title>Hawaii Five-0</title>
-    <sub-title>Ka 'alapahi Nui</sub-title>
-    <desc>The team investigates when a killer escapes by jumping his motorcycle from roof to roof.</desc>
+  <programme start="20250922160000 +0000" stop="20250922170000 +0000" channel="ion-plus">
+    <title>Hudson &amp; Rex</title>
+    <sub-title>The Hunt</sub-title>
+    <desc>Charlie and team realize that the abduction is part of an elaborate plan.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="ion-mystery">
     <title>Hawaii Five-0</title>
@@ -956,15 +947,20 @@
     <sub-title>Identity Crisis</sub-title>
     <desc>Sebastian's high school friend asks for help when her business partner is killed at a convention.</desc>
   </programme>
-  <programme start="20250921190047 +0000" stop="20250921210247 +0000" channel="filmrise-drama">
-    <title>A Touch of Frost</title>
-    <sub-title>One Man's Meat</sub-title>
-    <desc>Frost takes in a boarder as he investigates the body of a teenage girl floating in the canal and a disembodied arm washed up on the shoreline.</desc>
+  <programme start="20250922140000 +0000" stop="20250922150000 +0000" channel="ion-mystery">
+    <title>NCIS: New Orleans</title>
+    <sub-title>Ties That Bind</sub-title>
+    <desc>A petty officer's murder leads the team to a night club where Pride's mother used to perform.</desc>
   </programme>
-  <programme start="20250921210247 +0000" stop="20250921222902 +0000" channel="filmrise-drama">
-    <title>The Last Detective</title>
-    <sub-title>Benefit to Mankind</sub-title>
-    <desc>When the body of a medical researcher is found in the river, Davies suspects the case may be suicide - until the man's co-worker later disappears.</desc>
+  <programme start="20250922150000 +0000" stop="20250922160000 +0000" channel="ion-mystery">
+    <title>NCIS: New Orleans</title>
+    <sub-title>A New Dawn</sub-title>
+    <desc>A petty officer is murdered while in town to help a refugee family; Wade works on Taylor's campaign.</desc>
+  </programme>
+  <programme start="20250922160000 +0000" stop="20250922170000 +0000" channel="ion-mystery">
+    <title>NCIS: New Orleans</title>
+    <sub-title>The Last Mile</sub-title>
+    <desc>FBI Special Agent Raymond Isler asks Pride for help with an off-the-books investigation.</desc>
   </programme>
   <programme start="20250921222902 +0000" stop="20250922002813 +0000" channel="filmrise-drama">
     <title>The Last Detective</title>
@@ -1026,20 +1022,14 @@
     <sub-title>Innocents</sub-title>
     <desc>As Florence prospers under the Magnificent's policies, Lorenzo now seeks to establish lasting peace to secure his family's future - even if it means letting go of the virtuous beliefs he once had.</desc>
   </programme>
-  <programme start="20250921190000 +0000" stop="20250921200000 +0000" channel="electric-now">
-    <title>Leverage</title>
-    <sub-title>The Gold Job</sub-title>
-    <desc>The Leverage team hits the recession-driven Cash-for-Gold industry.</desc>
+  <programme start="20250922134318 +0000" stop="20250922144753 +0000" channel="filmrise-drama">
+    <title>Medici</title>
+    <sub-title>The Holy See</sub-title>
+    <desc>Seizing the right opportunity to gain power and ensure survival, Lorenzo and Clarice discover some dark secrets. Meanwhile, Lorenzo finally attains what he has strived for all along.</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921210000 +0000" channel="electric-now">
-    <title>Leverage</title>
-    <sub-title>The Radio Job</sub-title>
-    <desc>The Leverage team must stage a fake hostage stand-off.</desc>
-  </programme>
-  <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="electric-now">
-    <title>Leverage</title>
-    <sub-title>The Last Dam Job</sub-title>
-    <desc>The LEVERAGE team must recruit old friends.</desc>
+  <programme start="20250922144753 +0000" stop="20250922163920 +0000" channel="filmrise-drama">
+    <title>Miracle Dogs</title>
+    <desc>A boy tries to find homes for abandoned puppies that, like their mother, have a healing effect on people.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="electric-now">
     <title>Leverage</title>
@@ -1110,40 +1100,14 @@
     <sub-title>The Long Goodbye Job</sub-title>
     <desc>Nate he leads the team into their riskiest and deadliest con yet.</desc>
   </programme>
-  <programme start="20250921195000 +0000" stop="20250921201600 +0000" channel="game-show-central">
-    <title>America Says</title>
-    <sub-title>Tenants vs. Mom Club</sub-title>
-    <desc>Two teams face off to guess Americans' responses to questions; John Michael Higgins hosts.</desc>
+  <programme start="20250922130030 +0000" stop="20250922150030 +0000" channel="electric-now">
+    <title>Beach Love aka Riding 79</title>
+    <desc>This is the story of Miguel, left by his mother in Puerto Rico, to stay with his grandparents.</desc>
   </programme>
-  <programme start="20250921201600 +0000" stop="20250921204200 +0000" channel="game-show-central">
-    <title>Idiotest</title>
-    <sub-title>Rapping Sisters vs. Roommates</sub-title>
-    <desc>A pair of sisters compete against roommates to answer increasingly difficult brain teaser puzzles.</desc>
-  </programme>
-  <programme start="20250921204200 +0000" stop="20250921210700 +0000" channel="game-show-central">
-    <title>Idiotest</title>
-    <sub-title>Girl Friends vs. Guy Friends</sub-title>
-    <desc>Ben hosts as a woman and her best friend compete against another pair of friends.</desc>
-  </programme>
-  <programme start="20250921210700 +0000" stop="20250921213400 +0000" channel="game-show-central">
-    <title>Idiotest</title>
-    <sub-title>Family Face-Off</sub-title>
-    <desc>Teams of mothers and daughters compete.</desc>
-  </programme>
-  <programme start="20250921213400 +0000" stop="20250921220000 +0000" channel="game-show-central">
-    <title>Idiotest</title>
-    <sub-title>Dating Roommates vs. College Friends</sub-title>
-    <desc>One team can read minds.</desc>
-  </programme>
-  <programme start="20250921220000 +0000" stop="20250921222500 +0000" channel="game-show-central">
-    <title>Common Knowledge</title>
-    <sub-title>Basketballers vs. The Kirbys</sub-title>
-    <desc>Joey Fatone hosts as teams of three compete to answer practical, everyday questions.</desc>
-  </programme>
-  <programme start="20250921222500 +0000" stop="20250921225100 +0000" channel="game-show-central">
-    <title>Common Knowledge</title>
-    <sub-title>Homerun Parents vs. The Kinsocks</sub-title>
-    <desc>Which part of a tree cork comes from.</desc>
+  <programme start="20250922150030 +0000" stop="20250922160030 +0000" channel="electric-now">
+    <title>The Librarians</title>
+    <sub-title>And the Echoes of Memory</sub-title>
+    <desc>Baird must bring the Librarians together before a bleak, knowledge-less world becomes the new reality.</desc>
   </programme>
   <programme start="20250921225100 +0000" stop="20250921231600 +0000" channel="game-show-central">
     <title>Common Knowledge</title>
@@ -1310,35 +1274,37 @@
     <sub-title>WWE Wrestlers: Kofi Kingston, Xavier Woods, Apollo Crews, Ali</sub-title>
     <desc>Teams compete to see who can guess secret words or phrases with a limited amount of clues and time.</desc>
   </programme>
-  <programme start="20250921195735 +0000" stop="20250921202146 +0000" channel="celebrity-name-game">
-    <title>Celebrity Name Game</title>
-    <sub-title>David Alan Grier &amp; Scott Wolf 3</sub-title>
-    <desc>Celebrity guests David Alan Grier &amp; Scott Wolf team up with contestants to identify a variety of famous names.</desc>
+  <programme start="20250922132500 +0000" stop="20250922135000 +0000" channel="game-show-central">
+    <title>25 Words or Less</title>
+    <sub-title>Melissa Peterman, John Michael Higgens, Greg Grunberg, Rick Fox</sub-title>
+    <desc>Melissa Peterman and John Michael Higgins vs. Greg Grunberg and Rick Fox.</desc>
   </programme>
-  <programme start="20250921202146 +0000" stop="20250921204551 +0000" channel="celebrity-name-game">
-    <title>Celebrity Name Game</title>
-    <sub-title>David Alan Grier &amp; Ricki Lake 3</sub-title>
-    <desc>Celebrity guests David Alan Grier &amp; Ricki Lake team up with contestants to identify a variety of famous names.</desc>
+  <programme start="20250922135000 +0000" stop="20250922141700 +0000" channel="game-show-central">
+    <title>1 vs. 100</title>
+    <desc>One contestant battles 100 competitors for a $50,000 prize.</desc>
   </programme>
-  <programme start="20250921204551 +0000" stop="20250921211000 +0000" channel="celebrity-name-game">
-    <title>Celebrity Name Game</title>
-    <sub-title>David Arquette &amp; Tiffani Thiessen 2</sub-title>
-    <desc>Celebrity guests David Arquette &amp; Tiffani Thiessen team up with contestants to identify famous names.</desc>
+  <programme start="20250922141700 +0000" stop="20250922144200 +0000" channel="game-show-central">
+    <title>Tug of Words</title>
+    <sub-title>Bonfires &amp; Barbeques</sub-title>
+    <desc>Based on the playground game Tug-O-War, teams of two complete a series of word-clue questions.</desc>
   </programme>
-  <programme start="20250921211000 +0000" stop="20250921213410 +0000" channel="celebrity-name-game">
-    <title>Celebrity Name Game</title>
-    <sub-title>Mario Lopez &amp; Cat Deeley 3</sub-title>
-    <desc>Celebrity guests Mario Lopez &amp; Cat Deeley team up with contestants to identify a variety of famous names.</desc>
+  <programme start="20250922144200 +0000" stop="20250922150900 +0000" channel="game-show-central">
+    <title>Tug of Words</title>
+    <sub-title>Someone's Getting' Married</sub-title>
+    <desc>Based on the playground game Tug-O-War, teams of two complete a series of word-clue questions.</desc>
   </programme>
-  <programme start="20250921213410 +0000" stop="20250921215820 +0000" channel="celebrity-name-game">
-    <title>Celebrity Name Game</title>
-    <sub-title>Bill Engvall &amp; Nicole Sullivan</sub-title>
-    <desc>Celebrity guests Bill Engvall &amp; Nicole Sullivan team up with contestants to identify a variety of famous names</desc>
+  <programme start="20250922150900 +0000" stop="20250922153400 +0000" channel="game-show-central">
+    <title>Family Feud</title>
+    <desc>Steve Harvey hosts; two families compete to guess the answers to various surveys.</desc>
   </programme>
-  <programme start="20250921215820 +0000" stop="20250921222232 +0000" channel="celebrity-name-game">
-    <title>Celebrity Name Game</title>
-    <sub-title>Breckin Meyer &amp; Mark-Paul Gosselaar 3</sub-title>
-    <desc>Celebrity guests team up with contestants to identify a variety of famous names.</desc>
+  <programme start="20250922153400 +0000" stop="20250922160000 +0000" channel="game-show-central">
+    <title>Family Feud</title>
+    <desc>Steve Harvey hosts; two families compete to guess the answers to various surveys.</desc>
+  </programme>
+  <programme start="20250922160000 +0000" stop="20250922165100 +0000" channel="game-show-central">
+    <title>Deal or No Deal</title>
+    <sub-title>Kelly G</sub-title>
+    <desc/>
   </programme>
   <programme start="20250921222232 +0000" stop="20250921224642 +0000" channel="celebrity-name-game">
     <title>Celebrity Name Game</title>
@@ -1525,13 +1491,35 @@
     <sub-title>Megyn Price &amp; Teri Polo</sub-title>
     <desc>Celebrity guests Megyn Price &amp; Teri Polo team up with contestants to identify a variety of famous names.</desc>
   </programme>
-  <programme start="20250921180028 +0000" stop="20250921200451 +0000" channel="moviesphere">
-    <title>The Twilight Saga: Breaking Dawn - Part 2</title>
-    <desc>The Cullens gather together other vampire clans in order to protect Renesmee from a false allegation.</desc>
+  <programme start="20250922131618 +0000" stop="20250922134029 +0000" channel="celebrity-name-game">
+    <title>Celebrity Name Game</title>
+    <sub-title>Karina Smirnoff &amp; Joey Lawrence 3</sub-title>
+    <desc>Celebrity guests Karina Smirnoff &amp; Joey Lawrence team up with contestants to identify famous names.</desc>
   </programme>
-  <programme start="20250921200451 +0000" stop="20250921222825 +0000" channel="moviesphere">
-    <title>Twilight</title>
-    <desc>When Bella Swan moves to a small town, she falls in love with Edward Cullen, a 108-year-old vampire.</desc>
+  <programme start="20250922134029 +0000" stop="20250922140437 +0000" channel="celebrity-name-game">
+    <title>Celebrity Name Game</title>
+    <sub-title>Rachelle Lefevre &amp; Amy Smart 3</sub-title>
+    <desc>Celebrity guests Rachelle Lefevre &amp; Amy Smart team up with contestants to identify a variety of famous names.</desc>
+  </programme>
+  <programme start="20250922140437 +0000" stop="20250922142848 +0000" channel="celebrity-name-game">
+    <title>Celebrity Name Game</title>
+    <sub-title>David Arquette &amp; Tiffani Thiessen 3</sub-title>
+    <desc>Celebrity guests David Arquette &amp; Tiffani Thiessen team up with contestants to identify famous names.</desc>
+  </programme>
+  <programme start="20250922142848 +0000" stop="20250922145254 +0000" channel="celebrity-name-game">
+    <title>Celebrity Name Game</title>
+    <sub-title>Yvette Nicole Brown &amp; Kate Flannery 2</sub-title>
+    <desc>Celebrity guests Yvette Nicole Brown &amp; Kate Flannery team up with contestants to identify famous names.</desc>
+  </programme>
+  <programme start="20250922145254 +0000" stop="20250922151704 +0000" channel="celebrity-name-game">
+    <title>Celebrity Name Game</title>
+    <sub-title>Kevin Nealon &amp; Catherine Bell</sub-title>
+    <desc>Celebrity guests Kevin Nealon &amp; Catherine Bell team up with contestants to identify a variety of famous names.</desc>
+  </programme>
+  <programme start="20250922151704 +0000" stop="20250922154109 +0000" channel="celebrity-name-game">
+    <title>Celebrity Name Game</title>
+    <sub-title>Rex Lee &amp; Lauren Ash 2</sub-title>
+    <desc>Celebrity guests Rex Lee &amp; Lauren Ash team up with contestants to identify a variety of famous names.</desc>
   </programme>
   <programme start="20250921222825 +0000" stop="20250922005242 +0000" channel="moviesphere">
     <title>The Twilight Saga: New Moon</title>
@@ -1561,19 +1549,13 @@
     <title>Dirty Dancing: Havana Nights</title>
     <desc>Katey moves to Havana where she meets a local waiter, who introduces her to sensual Cuban music/dance.</desc>
   </programme>
-  <programme start="20250921190404 +0000" stop="20250921204704 +0000" channel="cw-hallmark-movies-and-more">
-    <title>Signed, Sealed, Delivered: The Impossible Dream</title>
-    <desc>Hallmark Original Movie. The POstables work against the clock decoding a letter to rescue a soldier.</desc>
+  <programme start="20250922130802 +0000" stop="20250922150843 +0000" channel="moviesphere">
+    <title>The Edge of Seventeen</title>
+    <desc>Life gets even more unbearable for Nadine when her best friend, Krista, starts dating her older brother.</desc>
   </programme>
-  <programme start="20250921204704 +0000" stop="20250921213957 +0000" channel="cw-hallmark-movies-and-more">
-    <title>Good Witch</title>
-    <sub-title>The Anniversary</sub-title>
-    <desc>Hallmark Original Series. Cassie and Sam celebrate their first wedding anniversary.</desc>
-  </programme>
-  <programme start="20250921213957 +0000" stop="20250921223019 +0000" channel="cw-hallmark-movies-and-more">
-    <title>Good Witch</title>
-    <sub-title>The Chili</sub-title>
-    <desc>Hallmark Original Series. Cassie and Joy discover a time capsule that Grace buried years ago.</desc>
+  <programme start="20250922150843 +0000" stop="20250922170411 +0000" channel="moviesphere">
+    <title>Booksmart</title>
+    <desc>Two overachieving friends decide to cram four years of fun into the eve of their high school graduation.</desc>
   </programme>
   <programme start="20250921223019 +0000" stop="20250921232041 +0000" channel="cw-hallmark-movies-and-more">
     <title>Good Witch</title>
@@ -1642,13 +1624,20 @@
     <sub-title>With This Ring</sub-title>
     <desc>Hallmark Original Series. Abigail helps Sam search for the perfect engagement ring for Cassie.</desc>
   </programme>
-  <programme start="20250921192629 +0000" stop="20250921211008 +0000" channel="movie-favorites-by-lifetime">
-    <title>Girl In The Closet</title>
-    <desc>10-year-old Cameron is adopted by her Aunt Mia, and begins to hear strange voices.</desc>
+  <programme start="20250922134846 +0000" stop="20250922143956 +0000" channel="cw-hallmark-movies-and-more">
+    <title>Good Witch</title>
+    <sub-title>In 4/4, with Emotion</sub-title>
+    <desc>Hallmark Original Series. Cassie and Sam learn to communicate about their future together.</desc>
   </programme>
-  <programme start="20250921211008 +0000" stop="20250921220000 +0000" channel="movie-favorites-by-lifetime">
-    <title>Beyond The Headlines: The Tiffany Rubin Story</title>
-    <desc>It was every parent's nightmare.</desc>
+  <programme start="20250922143956 +0000" stop="20250922153011 +0000" channel="cw-hallmark-movies-and-more">
+    <title>Good Witch</title>
+    <sub-title>Daddy's Home</sub-title>
+    <desc>Hallmark Original Series. Grace is forced to think about her future.</desc>
+  </programme>
+  <programme start="20250922153011 +0000" stop="20250922162111 +0000" channel="cw-hallmark-movies-and-more">
+    <title>Good Witch</title>
+    <sub-title>Family Time</sub-title>
+    <desc>Hallmark Original Series. Cassie faces a few obstacles before they start acting like a family again.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921234221 +0000" channel="movie-favorites-by-lifetime">
     <title>Surviving The Sleepover</title>
@@ -1691,15 +1680,18 @@
     <title>My Daughter's Secret</title>
     <desc>Single mother Denise struggles with her 17-year-old daughter Justine's behavior.</desc>
   </programme>
-  <programme start="20250921185410 +0000" stop="20250921204919 +0000" channel="free-movies-us">
-    <title>Donovan's Echo</title>
-    <sub-title>Donovan's Echo</sub-title>
-    <desc>Starring Danny Glover, (&quot;Lethal Weapon&quot;) when a series of uncanny deja vu events begin to occur, a man is forced to re-examine his tragic past, memory, instinct and future.</desc>
+  <programme start="20250922132619 +0000" stop="20250922151151 +0000" channel="movie-favorites-by-lifetime">
+    <title>Revenge Porn</title>
+    <desc>Nude photos upend Peyton Harris's life on revenge porn site.</desc>
   </programme>
-  <programme start="20250921204919 +0000" stop="20250921223233 +0000" channel="free-movies-us">
-    <title>Straight A's</title>
-    <sub-title>Straight A's</sub-title>
-    <desc>Compelled by his mother's ghost, a former addict (Ryan Phillippe, &quot;Crash&quot;) returns home to face his first love (Anna Paquin, &quot;The Piano&quot;), who happens to be his brother's wife.</desc>
+  <programme start="20250922151151 +0000" stop="20250922160000 +0000" channel="movie-favorites-by-lifetime">
+    <title>My Life is a Lifetime Movie</title>
+    <sub-title>Teens Gone Wild</sub-title>
+    <desc>Following a difficult breakup in a string of failed relationships.</desc>
+  </programme>
+  <programme start="20250922160000 +0000" stop="20250922174255 +0000" channel="movie-favorites-by-lifetime">
+    <title>Mommy Group Murder</title>
+    <desc>A new mom joins a mommy group but soon learns that membership comes at a price.</desc>
   </programme>
   <programme start="20250921223233 +0000" stop="20250922002644 +0000" channel="free-movies-us">
     <title>Blitz</title>
@@ -1741,15 +1733,15 @@
     <sub-title>Thrill Seekers</sub-title>
     <desc>When intrepid reporter Tom Merrick discovers that the same man appears in photographs of major disasters over a hundred-year period, he embarks on an incredible action-filled race against time to prevent a series of new disasters.</desc>
   </programme>
-  <programme start="20250921193659 +0000" stop="20250921203529 +0000" channel="top-gear-uk">
-    <title>Top Gear UK</title>
-    <sub-title>Episode 9</sub-title>
-    <desc>The boys head to the Isle of Harris to road-test some Cabriolets. Contains Strong Language.</desc>
+  <programme start="20250922130806 +0000" stop="20250922150204 +0000" channel="free-movies-us">
+    <title>Plato's Run</title>
+    <sub-title>Plato's Run</sub-title>
+    <desc>Hired to rescue escaped inmates, Plato (Gary Busey, &quot;The Buddy Holly Story&quot;) is framed for a Cuban gangster's assassination. With Roy Scheider (&quot;Jaws&quot;) and Steven Bauer (&quot;Scarface&quot;).</desc>
   </programme>
-  <programme start="20250921203529 +0000" stop="20250921213718 +0000" channel="top-gear-uk">
-    <title>Top Gear UK</title>
-    <sub-title>Episode 10</sub-title>
-    <desc>Jeremy tries out BMW's X3 and Richard discovers a Corvette that can actually corner! Contains Strong Language.</desc>
+  <programme start="20250922150204 +0000" stop="20250922164518 +0000" channel="free-movies-us">
+    <title>Stolen</title>
+    <sub-title>Stolen</sub-title>
+    <desc>A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi. Starring Nicolas Cage and Malin Akerman.</desc>
   </programme>
   <programme start="20250921213718 +0000" stop="20250921223939 +0000" channel="top-gear-uk">
     <title>Top Gear UK</title>
@@ -1831,20 +1823,15 @@
     <sub-title>Episode 9</sub-title>
     <desc>Jeremy has his Face pulled off by the Ariel Atom. Contains Strong Language.</desc>
   </programme>
-  <programme start="20250921192302 +0000" stop="20250921201706 +0000" channel="hells-kitchen-kitchen-nightmares">
-    <title>Hell's Kitchen Censored</title>
-    <sub-title>Putting the Carne in Carnival</sub-title>
-    <desc>It's down to the top ten! Chef Ramsay surprises the chefs with carnival games for their next challenge.</desc>
+  <programme start="20250922133025 +0000" stop="20250922143810 +0000" channel="top-gear-uk">
+    <title>Top Gear UK</title>
+    <sub-title>Episode 1</sub-title>
+    <desc>This season gets off to an explosive start as Jeremy Clarkson tries to outrun a Challenger tank.</desc>
   </programme>
-  <programme start="20250921201706 +0000" stop="20250921210845 +0000" channel="hells-kitchen-kitchen-nightmares">
-    <title>Hell's Kitchen Censored</title>
-    <sub-title>Everyone's Taco'ing About It</sub-title>
-    <desc>Chef Ramsay and actor Danny Trejo challenge the chefs to a taco competition, culminating in an intense dinner service that comes down to a race to the finish.</desc>
-  </programme>
-  <programme start="20250921210845 +0000" stop="20250921220234 +0000" channel="hells-kitchen-kitchen-nightmares">
-    <title>Hell's Kitchen Censored</title>
-    <sub-title>21st Annual Blind Taste Test</sub-title>
-    <desc>Chef Ramsay brings back two favorites: the sauciest Blind Taste Test Challenge ever and a world-class charity dinner service for a host of VIPs.</desc>
+  <programme start="20250922143810 +0000" stop="20250922154548 +0000" channel="top-gear-uk">
+    <title>Top Gear UK</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>Maserati's MC12 supercar makes its debut on the Top Gear track. Contains Strong Language.</desc>
   </programme>
   <programme start="20250921220234 +0000" stop="20250921225412 +0000" channel="hells-kitchen-kitchen-nightmares">
     <title>Hell's Kitchen Censored</title>
@@ -1931,20 +1918,20 @@
     <sub-title>Gimme an H!</sub-title>
     <desc>The contestants must create elevated American comfort food dishes.</desc>
   </programme>
-  <programme start="20250921193811 +0000" stop="20250921203044 +0000" channel="iron-chef">
-    <title>IronChef</title>
-    <sub-title>Battle Duck</sub-title>
-    <desc>Challenger Masatoshi Kimura, specializing in hot-flame Chinese cuisine, takes on Iron Chef Sakai.</desc>
+  <programme start="20250922131140 +0000" stop="20250922140821 +0000" channel="hells-kitchen-kitchen-nightmares">
+    <title>Kitchen Nightmares Censored</title>
+    <sub-title>Charlie's</sub-title>
+    <desc>Chef Ramsay pays Charlie's a visit. Located in La Verne, California, this Italian eatery suffers from a lackluster menu and outdated décor. Contains strong language.</desc>
   </programme>
-  <programme start="20250921203044 +0000" stop="20250921212319 +0000" channel="iron-chef">
-    <title>IronChef</title>
-    <sub-title>Battle Carrot</sub-title>
-    <desc>Challenger Kiyoshi Takahashi goes up against Iron Chef Chen who won silver in an all-out grudge match.</desc>
+  <programme start="20250922140821 +0000" stop="20250922150500 +0000" channel="hells-kitchen-kitchen-nightmares">
+    <title>Kitchen Nightmares Censored</title>
+    <sub-title>Mill Street Bistro (Part Two)</sub-title>
+    <desc>Ramsay visits Mill Street Bistro in Ohio to try to turn the eatery around; the restaurant's owner remains defiant and won't cooperate with Ramsay.</desc>
   </programme>
-  <programme start="20250921212319 +0000" stop="20250921221546 +0000" channel="iron-chef">
-    <title>IronChef</title>
-    <sub-title>Battle Natto</sub-title>
-    <desc>It's Iron Chef Michiba vs. Kuniyuki Ishikawa in a high-level battle of two master chefs in Japanese cuisine.</desc>
+  <programme start="20250922150500 +0000" stop="20250922155930 +0000" channel="hells-kitchen-kitchen-nightmares">
+    <title>Kitchen Nightmares Censored</title>
+    <sub-title>Spin a Yarn</sub-title>
+    <desc>Chef Ramsay visits a fifty-year-old steakhouse. Despite the restaurant's rich history, it's long overdue for a visual and culinary makeover. Contains strong language.</desc>
   </programme>
   <programme start="20250921221546 +0000" stop="20250921230819 +0000" channel="iron-chef">
     <title>IronChef</title>
@@ -2031,20 +2018,20 @@
     <sub-title>Spanish Mackerel</sub-title>
     <desc>The challenger is a master chef hailing from Kyoto. He has the support of the former Iron Chef Michiba and Dr. Yatori. Can the Iron Chef win this battle?</desc>
   </programme>
-  <programme start="20250921192208 +0000" stop="20250921201649 +0000" channel="dr-g-medical-examiner">
-    <title>Dr. G: Medical Examiner</title>
-    <sub-title>A Cry for Help</sub-title>
-    <desc>Police patrolling the night streets hear gunshots and head to the scene.</desc>
+  <programme start="20250922130907 +0000" stop="20250922140119 +0000" channel="iron-chef">
+    <title>IronChef</title>
+    <sub-title>Pen Shell</sub-title>
+    <desc>The challenger is a seafood expert who chooses and masterfully cooks gifts from the sea. He has apprenticed in the top kitchens of Japan. Which competitor will find the soul of the sea?</desc>
   </programme>
-  <programme start="20250921201649 +0000" stop="20250921210915 +0000" channel="dr-g-medical-examiner">
-    <title>Dr. G: Medical Examiner</title>
-    <sub-title>Toxic Forces</sub-title>
-    <desc>Amanda Reese breaks out in hives and begins to hyperventilate after returning from a hurricane relief effort.</desc>
+  <programme start="20250922140119 +0000" stop="20250922145334 +0000" channel="iron-chef">
+    <title>IronChef</title>
+    <sub-title>Mango</sub-title>
+    <desc>The challenger is one of the few Mexican food specialists in Tokyo. This is a Latin duel at Kitchen Stadium.</desc>
   </programme>
-  <programme start="20250921210915 +0000" stop="20250921220402 +0000" channel="dr-g-medical-examiner">
-    <title>Dr. G: Medical Examiner</title>
-    <sub-title>The Chain of Life and Death</sub-title>
-    <desc>A woman dies after breaking her hip; a man falls off a bicycle and dies; a stripper dies in her brother's apartment.</desc>
+  <programme start="20250922145334 +0000" stop="20250922154559 +0000" channel="iron-chef">
+    <title>IronChef</title>
+    <sub-title>Asparagus</sub-title>
+    <desc>Andre Pachon is the leader of the French chef community in Japan. Several of his apprentices have already appeared, but this time Pachon sends his number one man.</desc>
   </programme>
   <programme start="20250921220402 +0000" stop="20250921225751 +0000" channel="dr-g-medical-examiner">
     <title>Dr. G: Medical Examiner</title>
@@ -2131,20 +2118,20 @@
     <sub-title>Toxic Forces</sub-title>
     <desc>Amanda Reese breaks out in hives and begins to hyperventilate after returning from a hurricane relief effort.</desc>
   </programme>
-  <programme start="20250921190832 +0000" stop="20250921200302 +0000" channel="cw-untold-stories-of-the-er">
-    <title>Untold Stories of the ER</title>
-    <sub-title>Code Green in the ER</sub-title>
-    <desc>Doctors perform a chest incision while awaiting surgeons. An iguana is brought in following a car accident.</desc>
+  <programme start="20250922133554 +0000" stop="20250922143603 +0000" channel="dr-g-medical-examiner">
+    <title>Dr. G: Medical Examiner</title>
+    <sub-title>Deadly Doses</sub-title>
+    <desc>When Dr. G receives Lea Conrad's body, she suspects the woman may have died from an antihistamine overdose.</desc>
   </programme>
-  <programme start="20250921200302 +0000" stop="20250921210204 +0000" channel="cw-untold-stories-of-the-er">
-    <title>Untold Stories of the ER</title>
-    <sub-title>Over-Juiced</sub-title>
-    <desc>A health fanatic's juice diet leaves him in a comatose state, a geriatric playboy comes into the ER and more.</desc>
+  <programme start="20250922143603 +0000" stop="20250922152824 +0000" channel="dr-g-medical-examiner">
+    <title>Dr. G: Medical Examiner</title>
+    <sub-title>Deadly Business</sub-title>
+    <desc>Dr. G. is set to begin her first job in Jacksonville, Florida when a high-profile case challenges her.</desc>
   </programme>
-  <programme start="20250921210204 +0000" stop="20250921220106 +0000" channel="cw-untold-stories-of-the-er">
-    <title>Untold Stories of the ER</title>
-    <sub-title>Escaping Diagnosis</sub-title>
-    <desc>A disoriented young woman in a bunny costume checks into the ER.</desc>
+  <programme start="20250922152824 +0000" stop="20250922162623 +0000" channel="dr-g-medical-examiner">
+    <title>Dr. G: Medical Examiner</title>
+    <sub-title>In The Dead of The Night</sub-title>
+    <desc>A 71-year-old man wakes in the middle of the night, gasping for air.</desc>
   </programme>
   <programme start="20250921220106 +0000" stop="20250921225605 +0000" channel="cw-untold-stories-of-the-er">
     <title>Untold Stories of the ER</title>
@@ -2226,35 +2213,20 @@
     <sub-title>Family Tragedy</sub-title>
     <desc>A mother and son are brought in after a horrific car accident.</desc>
   </programme>
-  <programme start="20250921193656 +0000" stop="20250921200426 +0000" channel="cw-cheaters">
-    <title>Cheaters</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>Pamela Foley finds her boyfriend working hard to satisfy her best friend.</desc>
+  <programme start="20250922130420 +0000" stop="20250922135852 +0000" channel="cw-untold-stories-of-the-er">
+    <title>Untold Stories of the ER</title>
+    <sub-title>Man with Two Faces</sub-title>
+    <desc>A woman has a heart attack in the ER after being dragged from a house fire; a patient believes he has someone else's face; an untrained medical student must deliver a baby.</desc>
   </programme>
-  <programme start="20250921200426 +0000" stop="20250921203156 +0000" channel="cw-cheaters">
-    <title>Cheaters</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>Elizabeth Greene discovers her husband making more than just art with his new model on &quot;Cheaters!&quot;</desc>
+  <programme start="20250922135852 +0000" stop="20250922145754 +0000" channel="cw-untold-stories-of-the-er">
+    <title>Untold Stories of the ER</title>
+    <sub-title>Deep Trouble</sub-title>
+    <desc>An off-duty ER physician diagnoses his own critical illness while en route to the hospital.</desc>
   </programme>
-  <programme start="20250921203156 +0000" stop="20250921205922 +0000" channel="cw-cheaters">
-    <title>Cheaters</title>
-    <sub-title>Episode 35</sub-title>
-    <desc>Ethan Dalton learns that his girlfriend's musical career moves have included the horizontal mambo.</desc>
-  </programme>
-  <programme start="20250921205922 +0000" stop="20250921212651 +0000" channel="cw-cheaters">
-    <title>Cheaters</title>
-    <sub-title>Episode 10</sub-title>
-    <desc>Aeriol Garrison finds her husband serving up another woman.</desc>
-  </programme>
-  <programme start="20250921212651 +0000" stop="20250921215427 +0000" channel="cw-cheaters">
-    <title>Cheaters</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>Jill Kelly discovers her girlfriend strays with another person. Follow up with Maddie.</desc>
-  </programme>
-  <programme start="20250921215427 +0000" stop="20250921222206 +0000" channel="cw-cheaters">
-    <title>Cheaters</title>
-    <sub-title>Episode 2</sub-title>
-    <desc>Kesha Simmonds finds her boyfriend with his other girlfriend. Follow up with Jason MacArthur.</desc>
+  <programme start="20250922145754 +0000" stop="20250922155433 +0000" channel="cw-untold-stories-of-the-er">
+    <title>Untold Stories of the ER</title>
+    <sub-title>Say Your Prayers</sub-title>
+    <desc>A man is bitten by a deadly rattlesnake but because of religious reasons cannot receive a blood transfusion.</desc>
   </programme>
   <programme start="20250921222206 +0000" stop="20250921224943 +0000" channel="cw-cheaters">
     <title>Cheaters</title>
@@ -2416,20 +2388,35 @@
     <sub-title>Episode 1</sub-title>
     <desc>Lynn Skinner worries her husband has the seven-year itch. Follow up with Dashayla Bowden.</desc>
   </programme>
-  <programme start="20250921192323 +0000" stop="20250921201521 +0000" channel="dog-the-bounty-hunter">
-    <title>Dog the Bounty Hunter</title>
-    <sub-title>Oh Brother, Where Art Thou?</sub-title>
-    <desc>Dog's target for the day does not sound like a gentle giant.</desc>
+  <programme start="20250922130211 +0000" stop="20250922132941 +0000" channel="cw-cheaters">
+    <title>Cheaters</title>
+    <sub-title>Episode 20</sub-title>
+    <desc>Priscilla Mayberry finds out her tattoo artist boyfriend is using his needle to ink other women.</desc>
   </programme>
-  <programme start="20250921201521 +0000" stop="20250921210846 +0000" channel="dog-the-bounty-hunter">
-    <title>Dog the Bounty Hunter</title>
-    <sub-title>Rain Check</sub-title>
-    <desc>For Dog and Beth it's not only another day in paradise, it's their anniversary.</desc>
+  <programme start="20250922132941 +0000" stop="20250922135708 +0000" channel="cw-cheaters">
+    <title>Cheaters</title>
+    <sub-title>Episode 7</sub-title>
+    <desc>Rene Locke learns her pest control boyfriend wants to exterminate their relationship.</desc>
   </programme>
-  <programme start="20250921210846 +0000" stop="20250921220001 +0000" channel="dog-the-bounty-hunter">
-    <title>Dog the Bounty Hunter</title>
-    <sub-title>Tears for Fears</sub-title>
-    <desc>There are few louder wake-up calls than coming-to in a jail cell.</desc>
+  <programme start="20250922135708 +0000" stop="20250922142438 +0000" channel="cw-cheaters">
+    <title>Cheaters</title>
+    <sub-title>Episode 13</sub-title>
+    <desc>Ian Sutter discovers his grad student girlfriends extra curricular activities and credits. Follow up with Dolly.</desc>
+  </programme>
+  <programme start="20250922142438 +0000" stop="20250922145206 +0000" channel="cw-cheaters">
+    <title>Cheaters</title>
+    <sub-title>Episode 16</sub-title>
+    <desc>Amy Nelson finds her boyfriend two-timing her with an office associate.</desc>
+  </programme>
+  <programme start="20250922145206 +0000" stop="20250922151944 +0000" channel="cw-cheaters">
+    <title>Cheaters</title>
+    <sub-title>Episode 21</sub-title>
+    <desc>Jordan Crosby discovers his girlfriend has another boyfriend. Follow up with Larry White.</desc>
+  </programme>
+  <programme start="20250922151944 +0000" stop="20250922154713 +0000" channel="cw-cheaters">
+    <title>Cheaters</title>
+    <sub-title>Episode 40</sub-title>
+    <desc>Lindsay Riviera discovers her barber boyfriend may be shaving too close to the edge.</desc>
   </programme>
   <programme start="20250921220001 +0000" stop="20250921224930 +0000" channel="dog-the-bounty-hunter">
     <title>Dog the Bounty Hunter</title>
@@ -2541,15 +2528,30 @@
     <sub-title>In Sickness and in Health</sub-title>
     <desc>Dog is sick as a dog, but he still must lead the hunt for a fugitive named James.</desc>
   </programme>
-  <programme start="20250921195708 +0000" stop="20250921205213 +0000" channel="worlds-wildest-police-videos">
-    <title>World's Wildest Police Videos</title>
-    <sub-title>Code Red: Moment of Survival</sub-title>
-    <desc>This episode features daring emergencies and rescues caught on tape.</desc>
+  <programme start="20250922132528 +0000" stop="20250922135104 +0000" channel="dog-the-bounty-hunter">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>If the Shirt Fits...</sub-title>
+    <desc>Beth buys Dog a shirt with an embroidered chicken that looks like a dragon.</desc>
   </programme>
-  <programme start="20250921205213 +0000" stop="20250921214732 +0000" channel="worlds-wildest-police-videos">
-    <title>World's Wildest Police Videos</title>
-    <sub-title>Episode 12</sub-title>
-    <desc>This episode features a chase in Alabama, a madman who takes hostages on a bus and a thwarted robbery.</desc>
+  <programme start="20250922135104 +0000" stop="20250922141645 +0000" channel="dog-the-bounty-hunter">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>The Thief Who Stole Christmas</sub-title>
+    <desc>It's Christmas day, and Dog sets out to nab Raymond.</desc>
+  </programme>
+  <programme start="20250922141645 +0000" stop="20250922144241 +0000" channel="dog-the-bounty-hunter">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Rock-a-Bye Bounty</sub-title>
+    <desc>Dog and Beth have their hands full when they go after their former housekeeper.</desc>
+  </programme>
+  <programme start="20250922144241 +0000" stop="20250922150842 +0000" channel="dog-the-bounty-hunter">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>The Sweep</sub-title>
+    <desc>Dog decides to sweep the island clean of as many fugitives as he can.</desc>
+  </programme>
+  <programme start="20250922150842 +0000" stop="20250922153418 +0000" channel="dog-the-bounty-hunter">
+    <title>Dog the Bounty Hunter</title>
+    <sub-title>Scared Straight</sub-title>
+    <desc>Back in Colorado Dog tracks a fugitive who is on the run from the law.</desc>
   </programme>
   <programme start="20250921214732 +0000" stop="20250921224111 +0000" channel="worlds-wildest-police-videos">
     <title>World's Wildest Police Videos</title>
@@ -2636,20 +2638,20 @@
     <sub-title>Episode 14</sub-title>
     <desc>This episode features a chase in Nevada, a careless driver who hits a cyclist and an attempted convenience store robbery.</desc>
   </programme>
-  <programme start="20250921194328 +0000" stop="20250921203409 +0000" channel="bloodline-detectives-hosted-by-nancy-grace">
-    <title>Bloodline Detectives</title>
-    <sub-title>The Williamsburg Rapist</sub-title>
-    <desc>This is the story of four innocent victims and how their attacker became another successful target of the Bloodline Detectives.</desc>
+  <programme start="20250922132147 +0000" stop="20250922141423 +0000" channel="worlds-wildest-police-videos">
+    <title>World's Wildest Police Videos</title>
+    <sub-title>Episode 9</sub-title>
+    <desc>This episode features a prison-wide fight, a pistol-packing drug thief and a stolen school bus.</desc>
   </programme>
-  <programme start="20250921203409 +0000" stop="20250921212639 +0000" channel="bloodline-detectives-hosted-by-nancy-grace">
-    <title>Bloodline Detectives hosted by Nancy Grace</title>
-    <sub-title>The Mystery of the Headphones</sub-title>
-    <desc>A killer evades justice for the murder of Diana Hanson for 38 years until genetic genealogy can identify him.</desc>
+  <programme start="20250922141423 +0000" stop="20250922150803 +0000" channel="worlds-wildest-police-videos">
+    <title>World's Wildest Police Videos</title>
+    <sub-title>World's Scariest Police Stings</sub-title>
+    <desc>A collection of the wildest police videos from around the world.</desc>
   </programme>
-  <programme start="20250921212639 +0000" stop="20250921221710 +0000" channel="bloodline-detectives-hosted-by-nancy-grace">
-    <title>Bloodline Detectives hosted by Nancy Grace</title>
-    <sub-title>The Mystery in the Parks</sub-title>
-    <desc>Genetic genealogy brings answers to the families of two little girls who were murdered in 1986 in Tacoma, WA.</desc>
+  <programme start="20250922150803 +0000" stop="20250922160623 +0000" channel="worlds-wildest-police-videos">
+    <title>World's Wildest Police Videos</title>
+    <sub-title>Episode 2</sub-title>
+    <desc>This episode features chases in California and North Carolina, a routine traffic stop that turns deadly and a riot at a soccer game.</desc>
   </programme>
   <programme start="20250921221710 +0000" stop="20250921230737 +0000" channel="bloodline-detectives-hosted-by-nancy-grace">
     <title>Bloodline Detectives hosted by Nancy Grace</title>
@@ -2741,20 +2743,15 @@
     <sub-title>Justice Delayed</sub-title>
     <desc>In 1972 Washington, 20-year-old Jody Loomis is discovered covered in blood by the roadside. She is brought to the hospital where she passes away from a bullet wound. It'll take over forty years for science to reveal her killer.</desc>
   </programme>
-  <programme start="20250921192027 +0000" stop="20250921201709 +0000" channel="total-crime">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Alisha Canales-McGuire</sub-title>
-    <desc>Find a sinister motive in the case of a newlywed shot seven times at her door.</desc>
+  <programme start="20250922134937 +0000" stop="20250922144218 +0000" channel="bloodline-detectives-hosted-by-nancy-grace">
+    <title>Bloodline Detectives hosted by Nancy Grace</title>
+    <sub-title>Chilling Notes from a Killer</sub-title>
+    <desc>In 1988, Janet Tinsley reports her daughter missing. Three days later, a jogger makes a gruesome discovery.</desc>
   </programme>
-  <programme start="20250921201709 +0000" stop="20250921211348 +0000" channel="total-crime">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Annie Ross</sub-title>
-    <desc>Lift the lid on a chilling, 30-year-old rape-murder case with two rookie cops.</desc>
-  </programme>
-  <programme start="20250921211348 +0000" stop="20250921221028 +0000" channel="total-crime">
-    <title>Murder: Fight for the Truth</title>
-    <sub-title>Lynette White</sub-title>
-    <desc>Follow a journalist's dogged quest to catch a young woman’s real killer.</desc>
+  <programme start="20250922144218 +0000" stop="20250922153244 +0000" channel="bloodline-detectives-hosted-by-nancy-grace">
+    <title>Bloodline Detectives hosted by Nancy Grace</title>
+    <sub-title>Finding Suzanne</sub-title>
+    <desc>A woman's skeletal remains are found in Okaloosa County in 1994, sparking a years-long search for her identity and killer - until a new forensic tool provides answers.</desc>
   </programme>
   <programme start="20250921221028 +0000" stop="20250921230718 +0000" channel="total-crime">
     <title>Murder: Fight for the Truth</title>
@@ -2841,20 +2838,20 @@
     <sub-title>Williams</sub-title>
     <desc>Learn why a mother’s hunch helped solve a hunter’s strange disappearance.</desc>
   </programme>
-  <programme start="20250921191322 +0000" stop="20250921201813 +0000" channel="cw-the-fbi-files">
-    <title>The FBI Files</title>
-    <sub-title>Final Takedown</sub-title>
-    <desc>In the early 1990s, a gang based in the U.S. Virgin Islands smuggled large amounts of cocaine into mainland America. Police and federal agents targeted the violent group, but its leader remained a mystery.</desc>
+  <programme start="20250922134548 +0000" stop="20250922143921 +0000" channel="total-crime">
+    <title>Killer Mistake</title>
+    <sub-title>Miller</sub-title>
+    <desc>Join the fight to keep a killer in jail.</desc>
   </programme>
-  <programme start="20250921201813 +0000" stop="20250921212102 +0000" channel="cw-the-fbi-files">
-    <title>The FBI Files</title>
-    <sub-title>The Killing Zone</sub-title>
-    <desc>In the late 1980s, an illegal drug operation known as the K Street Crew opened its doors in Washington, DC.</desc>
+  <programme start="20250922143921 +0000" stop="20250922153459 +0000" channel="total-crime">
+    <title>Murder On The Frindge</title>
+    <sub-title>Surviving the Block (Part 2)</sub-title>
+    <desc>Learn how the courts fail transgender women of colour in this 2-part episode.</desc>
   </programme>
-  <programme start="20250921212102 +0000" stop="20250921222616 +0000" channel="cw-the-fbi-files">
-    <title>The FBI Files</title>
-    <sub-title>Dead Run</sub-title>
-    <desc>In 1993, an elderly man was found suffocated in his home with his checkbook, credit cards and vehicle stolen.</desc>
+  <programme start="20250922153459 +0000" stop="20250922163156 +0000" channel="total-crime">
+    <title>Murder On The Frindge</title>
+    <sub-title>The Cobra Killers (Part 1)</sub-title>
+    <desc>Delve into a murder that rocked the gay porn world in this 2-part episode.</desc>
   </programme>
   <programme start="20250921222616 +0000" stop="20250921233115 +0000" channel="cw-the-fbi-files">
     <title>The FBI Files</title>
@@ -2926,25 +2923,15 @@
     <sub-title>Forced Entry</sub-title>
     <desc>In 1994, a rash of home invasions plagued the Detroit area. Each time, masked men disguised as police officers broke in with assault rifles and stole money and jewelry. But when one homeowner shot back, the identity of the intruders was revealed.</desc>
   </programme>
-  <programme start="20250921191310 +0000" stop="20250921200801 +0000" channel="worlds-most-evil-killers">
-    <title>World's Most Evil Killers</title>
-    <sub-title>John Cannan</sub-title>
-    <desc>A dangerous sexual predator murders a young woman, just days after his release from prison.</desc>
+  <programme start="20250922132205 +0000" stop="20250922142735 +0000" channel="cw-the-fbi-files">
+    <title>The FBI Files</title>
+    <sub-title>Deadly Influence</sub-title>
+    <desc>Amid the cocaine wars of 1980s Miami, a multi-agency tactical squad suspected that a group of cops might be involved in illegal drug busts. The squad uncovered a ring of police who were making millions by ripping off smuggled cocaine.</desc>
   </programme>
-  <programme start="20250921200801 +0000" stop="20250921210447 +0000" channel="worlds-most-evil-killers">
-    <title>World's Most Evil Killers</title>
-    <sub-title>David Bieber</sub-title>
-    <desc>A fugitive from the United States tackles the British Police and goes on the run.</desc>
-  </programme>
-  <programme start="20250921210447 +0000" stop="20250921220239 +0000" channel="worlds-most-evil-killers">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Mark Goudeau</sub-title>
-    <desc>Goudeau terrorized victims in the Phoenix metro area between August 2005 and June 2006. In addition to committing nine murders, his extensive crime spree included 84 other felony crimes, totaling 93 felonies over the ten-month period.</desc>
-  </programme>
-  <programme start="20250921220239 +0000" stop="20250921225959 +0000" channel="worlds-most-evil-killers">
-    <title>World's Most Evil Killers</title>
-    <sub-title>Nathan Matthews</sub-title>
-    <desc>A family's worst nightmare when 16-year-old Becky Watts goes missing from her home and is found dead a few days' later, murdered by her own stepbrother.</desc>
+  <programme start="20250922142735 +0000" stop="20250922153025 +0000" channel="cw-the-fbi-files">
+    <title>The FBI Files</title>
+    <sub-title>No Place to Hide</sub-title>
+    <desc>In the spring of 1997, a killer preyed on senior citizens in the quiet town of River Parish, Louisiana.</desc>
   </programme>
   <programme start="20250921225959 +0000" stop="20250921235829 +0000" channel="worlds-most-evil-killers">
     <title>World's Most Evil Killers</title>
@@ -3021,35 +3008,25 @@
     <sub-title>Stephen Farrow</sub-title>
     <desc>Stephen Farrow committed two murders in early 2012 motivated by an obsessive hatred of Christianity, which he attributed to sexual abuse from a priest.</desc>
   </programme>
-  <programme start="20250921193414 +0000" stop="20250921200252 +0000" channel="forensic-files">
-    <title>Forensic Files</title>
-    <sub-title>Once Bitten</sub-title>
-    <desc>At a murder scene, investigators find a shoe-print, several foreign hairs, and unknown fingerprints. But they believe the most telling piece of evidence is the bite mark on the victim.</desc>
+  <programme start="20250922130601 +0000" stop="20250922140035 +0000" channel="worlds-most-evil-killers">
+    <title>World's Most Evil Killers</title>
+    <sub-title>Sabah Khan</sub-title>
+    <desc>An investigation into the woman who was driven into a jealous rage and stabbed her sister to death while her children slept upstairs.</desc>
   </programme>
-  <programme start="20250921200252 +0000" stop="20250921203130 +0000" channel="forensic-files">
-    <title>Forensic Files</title>
-    <sub-title>The Music Case</sub-title>
-    <desc>In 1999, a 12-year-old was found murdered in her home in Minnesota. Despite a meticulous search of the home and an exhaustive investigation, police had no suspects.</desc>
+  <programme start="20250922140035 +0000" stop="20250922145748 +0000" channel="worlds-most-evil-killers">
+    <title>World's Most Evil Killers</title>
+    <sub-title>Judy Buenoano</sub-title>
+    <desc>The story of a killer so evil that not even her own son could escape her clutches. She became the first woman to be executed in Florida since 1848.</desc>
   </programme>
-  <programme start="20250921203130 +0000" stop="20250921205941 +0000" channel="forensic-files">
-    <title>Forensic Files</title>
-    <sub-title>Prints Among Thieves</sub-title>
-    <desc>The murder of a millionaire indicated robbery, but investigators wondered if there was something more.</desc>
+  <programme start="20250922145748 +0000" stop="20250922155453 +0000" channel="worlds-most-evil-killers">
+    <title>World's Most Evil Killers</title>
+    <sub-title>Joshua Wade</sub-title>
+    <desc>Joshua Wade had all the hall marks of a killer. We'll never understand the motives behind his random killings.</desc>
   </programme>
-  <programme start="20250921205941 +0000" stop="20250921212819 +0000" channel="forensic-files">
-    <title>Forensic Files</title>
-    <sub-title>Bound for Jail</sub-title>
-    <desc>A woman is found dead in a ravine, but crucial crime scene evidence had been washed away by severe thunderstorms. Almost 20 years later, an old hat brought the killer to justice.</desc>
-  </programme>
-  <programme start="20250921212819 +0000" stop="20250921215630 +0000" channel="forensic-files">
-    <title>Forensic Files</title>
-    <sub-title>Picture This</sub-title>
-    <desc>A California teen went missing. Police suspected she'd run away until her body was discovered in a ditch.</desc>
-  </programme>
-  <programme start="20250921215630 +0000" stop="20250921222508 +0000" channel="forensic-files">
-    <title>Forensic Files</title>
-    <sub-title>Nailed</sub-title>
-    <desc>Just weeks before a witness is to testify against the man accused of sexually assaulting her, she is murdered.</desc>
+  <programme start="20250922155453 +0000" stop="20250922165216 +0000" channel="worlds-most-evil-killers">
+    <title>World's Most Evil Killers</title>
+    <sub-title>Joe O'Reilly</sub-title>
+    <desc>In October 2004, Rachel O'Reilly left her home to drop her children off at school. Less than 20 minutes after returning home she was murdered. Her husband, Joe O'Reilly, staged the crime scene to make it look like a burglary gone wrong.</desc>
   </programme>
   <programme start="20250921222508 +0000" stop="20250921225415 +0000" channel="forensic-files">
     <title>Forensic Files</title>
@@ -3206,35 +3183,30 @@
     <sub-title>The Sniper's Trail</sub-title>
     <desc>In 2002, the eyes of the world were on Virginia and Maryland. A serial sniper was on the loose, killing innocent, unsuspecting citizens. Just how was he caught?</desc>
   </programme>
-  <programme start="20250921194123 +0000" stop="20250921200858 +0000" channel="sheriffs-el-dorado-county">
-    <title>Sheriffs: El Dorado County</title>
-    <sub-title>One Life on Heroin</sub-title>
-    <desc>A man with multiple arrests for heroin possession talks about what life on the drug is really like.</desc>
+  <programme start="20250922130933 +0000" stop="20250922133753 +0000" channel="forensic-files">
+    <title>Forensic Files</title>
+    <sub-title>Murder on the Menu</sub-title>
+    <desc>When the head chef of a historic restaurant was found dead, investigators interviewed the usual suspects.</desc>
   </programme>
-  <programme start="20250921200858 +0000" stop="20250921203631 +0000" channel="sheriffs-el-dorado-county">
-    <title>Sheriffs: El Dorado County</title>
-    <sub-title>Buyer Beware of a Real Steal on Craigslist</sub-title>
-    <desc>A Special Enforcement Detail officer executes a plan to catch some burglars who ransacked several homes. A 9-1-1 caller reports that a woman broke into her car.</desc>
+  <programme start="20250922133753 +0000" stop="20250922140613 +0000" channel="forensic-files">
+    <title>Forensic Files</title>
+    <sub-title>Stick 'Em Up</sub-title>
+    <desc>Residents of Noel, Missouri were stunned to learn that their bank had been robbed and the bank president was missing. His body was later found floating in a lake, securely bound to a chair with duct tape.</desc>
   </programme>
-  <programme start="20250921203631 +0000" stop="20250921210155 +0000" channel="sheriffs-el-dorado-county">
-    <title>Sheriffs: El Dorado County</title>
-    <sub-title>Am I Being Indicted</sub-title>
-    <desc>A troubled young man with physical limitations decides to fight with the police. The boat patrol on Lake Tahoe responds to an overturned vessel in the water. A vehicle with an out-of-date registration is pulled over.</desc>
+  <programme start="20250922140613 +0000" stop="20250922143433 +0000" channel="forensic-files">
+    <title>Forensic Files</title>
+    <sub-title>A Daughter's Journey</sub-title>
+    <desc>Haunted by the disappearance of her mother, a young woman undertakes an investigation of her own. In her mother's diary, she discovers a dark family secret that might explain the disappearance.</desc>
   </programme>
-  <programme start="20250921210155 +0000" stop="20250921212717 +0000" channel="sheriffs-el-dorado-county">
-    <title>Sheriffs: El Dorado County</title>
-    <sub-title>Follow the Water</sub-title>
-    <desc>An illegal marijuana grow operation is found in a mobile home. A deputy responds to a report of a loud and violent neighbor. A home burglary is interrupted by the homeowners.</desc>
+  <programme start="20250922143433 +0000" stop="20250922150245 +0000" channel="forensic-files">
+    <title>Forensic Files</title>
+    <sub-title>Cries Unheard</sub-title>
+    <desc>A 19-year-old woman was found dead in her car, the scene had been staged to make murder appear to be suicide</desc>
   </programme>
-  <programme start="20250921212717 +0000" stop="20250921215451 +0000" channel="sheriffs-el-dorado-county">
-    <title>Sheriffs: El Dorado County</title>
-    <sub-title>Flying Over a Cliff</sub-title>
-    <desc>An undercover narcotics team goes after a drug house. A drunk motorist drives over a cliff and into a river.</desc>
-  </programme>
-  <programme start="20250921215451 +0000" stop="20250921222224 +0000" channel="sheriffs-el-dorado-county">
-    <title>Sheriffs: El Dorado County</title>
-    <sub-title>Highly Explosive Material</sub-title>
-    <desc>A couple is caught having sex in a place where no one is supposed to be. A bag of highly explosive material is found attached to a mailbox. A drone spots a large marijuana growing site. A man puts his fist through a motel window.</desc>
+  <programme start="20250922150245 +0000" stop="20250922153212 +0000" channel="forensic-files">
+    <title>Forensic Files</title>
+    <sub-title>Sleight of Hand</sub-title>
+    <desc>Discovering that an assault suspect is left-handed is crucial to a police investigation dating back 16 years.</desc>
   </programme>
   <programme start="20250921222224 +0000" stop="20250921224957 +0000" channel="sheriffs-el-dorado-county">
     <title>Sheriffs: El Dorado County</title>
@@ -3406,20 +3378,35 @@
     <sub-title>Pot, Pipe Bombs and Clueless People</sub-title>
     <desc>Police execute a search warrant on a marijuana grow operation run by illegal Mexican nationals. A person reports they found three pipe bombs. In a domestic violence call, a man is reported to be burning all his own property on his front lawn.</desc>
   </programme>
-  <programme start="20250921191655 +0000" stop="20250921201514 +0000" channel="cw-unsolved-mysteries">
-    <title>Unsolved Mysteries with Robert Stack</title>
-    <sub-title>Episode: 22</sub-title>
-    <desc>This episode includes: Tunnel of Cocaine &amp; UD, Update: War of the Depues, G.I. Dad &amp; UD, Singles Bar &amp; UD and J.J's Journey &amp; UD.</desc>
+  <programme start="20250922131602 +0000" stop="20250922134335 +0000" channel="sheriffs-el-dorado-county">
+    <title>Sheriffs: El Dorado County</title>
+    <sub-title>Solicited Husband</sub-title>
+    <desc>A deputy answers a 9-1-1 call about a lady stealing from a convenience store. A woman claims a prostitute solicited her husband in a restaurant.</desc>
   </programme>
-  <programme start="20250921201514 +0000" stop="20250921210843 +0000" channel="cw-unsolved-mysteries">
-    <title>Unsolved Mysteries with Robert Stack</title>
-    <sub-title>Episode: 24</sub-title>
-    <desc>This episode includes: Broken Hearts &amp; UD, Burning Car &amp; UD, Armored Car Killings &amp; UD and Amnesia Victim.</desc>
+  <programme start="20250922134335 +0000" stop="20250922140859 +0000" channel="sheriffs-el-dorado-county">
+    <title>Sheriffs: El Dorado County</title>
+    <sub-title>I Broke Into the Vet's Office to Get a Pack of Cigarettes</sub-title>
+    <desc>Deputies respond to a burglary in progress. Deputies do a probation check and find a houseful of drug addicts and probation violators.</desc>
   </programme>
-  <programme start="20250921210843 +0000" stop="20250921220926 +0000" channel="cw-unsolved-mysteries">
-    <title>Unsolved Mysteries with Robert Stack</title>
-    <sub-title>Episode: 23</sub-title>
-    <desc>San Francisco-area pizzeria robberies; wealthy man reunites with daughter; kidnapper/murderer apprehended.</desc>
+  <programme start="20250922140859 +0000" stop="20250922143422 +0000" channel="sheriffs-el-dorado-county">
+    <title>Sheriffs: El Dorado County</title>
+    <sub-title>Dope Run Gone Bad</sub-title>
+    <desc>Police attempt to arrest a drug dealer. A young woman is found lying on the side of the road. Officers try to catch people who are willing to buy alcohol for minors.</desc>
+  </programme>
+  <programme start="20250922143422 +0000" stop="20250922150155 +0000" channel="sheriffs-el-dorado-county">
+    <title>Sheriffs: El Dorado County</title>
+    <sub-title>Underwear Man on Street</sub-title>
+    <desc>An intoxicated man runs through the streets in his underwear; a couple fights in their car; a couple won't stop fighting.</desc>
+  </programme>
+  <programme start="20250922150155 +0000" stop="20250922152929 +0000" channel="sheriffs-el-dorado-county">
+    <title>Sheriffs: El Dorado County</title>
+    <sub-title>Flying Over a Cliff</sub-title>
+    <desc>An undercover narcotics team goes after a drug house. A drunk motorist drives over a cliff and into a river.</desc>
+  </programme>
+  <programme start="20250922152929 +0000" stop="20250922155702 +0000" channel="sheriffs-el-dorado-county">
+    <title>Sheriffs: El Dorado County</title>
+    <sub-title>Cycles of Domestic Violence</sub-title>
+    <desc>A theft at a supermarket ends in domestic violence. The sheriff's Homeless Outreach Team responds to a disturbed woman. A tip about a heroin dealer comes from a confidential informant.</desc>
   </programme>
   <programme start="20250921220926 +0000" stop="20250921230323 +0000" channel="cw-unsolved-mysteries">
     <title>Unsolved Mysteries with Robert Stack</title>
@@ -3495,25 +3482,20 @@
     <sub-title>Episode: 2</sub-title>
     <desc>Reports allege John Wilkes Booth survived until 1903; 65-year-old man disappears; search for a child molester.</desc>
   </programme>
-  <programme start="20250921192640 +0000" stop="20250921201654 +0000" channel="ae-crime-360">
-    <title>The First 48</title>
-    <sub-title>Dangerous Business</sub-title>
-    <desc>When a suburban teenager is found dead in a robbery gone bad.</desc>
+  <programme start="20250922130211 +0000" stop="20250922140351 +0000" channel="cw-unsolved-mysteries">
+    <title>Unsolved Mysteries with Robert Stack</title>
+    <sub-title>Episode: 6</sub-title>
+    <desc>This episode includes: Goldie's Girl &amp; UD, UD: Who's Tyler?, Til Death Do Us Part &amp; UD and Thanks Big Brother &amp; UD.</desc>
   </programme>
-  <programme start="20250921201654 +0000" stop="20250921210818 +0000" channel="ae-crime-360">
-    <title>The First 48</title>
-    <sub-title>Knock At The Door/ The Brave One</sub-title>
-    <desc>In Tulsa, a man is murdered in front of his fiancee.</desc>
+  <programme start="20250922140351 +0000" stop="20250922145451 +0000" channel="cw-unsolved-mysteries">
+    <title>Unsolved Mysteries with Robert Stack</title>
+    <sub-title>Episode: 11</sub-title>
+    <desc>This episode includes: Best Friends &amp; UD, Marine Captain Murder, Florida Fires &amp; UD, UD: Stamper's Rampage and Mucho Oro.</desc>
   </programme>
-  <programme start="20250921210818 +0000" stop="20250921220000 +0000" channel="ae-crime-360">
-    <title>The First 48</title>
-    <sub-title>The Deadliest Sin And Bloodlines</sub-title>
-    <desc>19-year old's murder in Mobile involves Det. Rogers' cousin.</desc>
-  </programme>
-  <programme start="20250921220000 +0000" stop="20250921225059 +0000" channel="ae-crime-360">
-    <title>The First 48</title>
-    <sub-title>Nightmare In Greedy Grove/Good Man Down</sub-title>
-    <desc>Dallas drive-by kills bystander; Cleveland father murdered at nightclub.</desc>
+  <programme start="20250922145451 +0000" stop="20250922154654 +0000" channel="cw-unsolved-mysteries">
+    <title>Unsolved Mysteries with Robert Stack</title>
+    <sub-title>Episode: 4</sub-title>
+    <desc>This episode includes: The Man Who Knew Too Much, Update: Sweetheart Swindler, Dark Dante &amp; UD and The Promise &amp; UD.</desc>
   </programme>
   <programme start="20250921225059 +0000" stop="20250921234352 +0000" channel="ae-crime-360">
     <title>The First 48</title>
@@ -3620,10 +3602,20 @@
     <sub-title>Interrogation Files (#104)</sub-title>
     <desc>An Army soldier is questioned about the shooting death of his teenage girlfriend.</desc>
   </programme>
-  <programme start="20250921191449 +0000" stop="20250921211508 +0000" channel="cw-midsomer-murders">
-    <title>Midsomer Murders</title>
-    <sub-title>Painted In Blood</sub-title>
-    <desc>Barnaby's wife finds a body on the village green while taking part in a watercolor painting class.</desc>
+  <programme start="20250922131313 +0000" stop="20250922140849 +0000" channel="ae-crime-360">
+    <title>Interrogation Raw</title>
+    <sub-title>Bride-To-Be Murder Mystery</sub-title>
+    <desc>After a woman is brutally murdered, detectives interrogate possible suspects.</desc>
+  </programme>
+  <programme start="20250922140849 +0000" stop="20250922150425 +0000" channel="ae-crime-360">
+    <title>Interrogation Raw</title>
+    <sub-title>Something In The Water</sub-title>
+    <desc>A young woman's body parts are found in a suspect's plumbing and freezer.</desc>
+  </programme>
+  <programme start="20250922150425 +0000" stop="20250922160001 +0000" channel="ae-crime-360">
+    <title>Interrogation Raw</title>
+    <sub-title>A Family Tragedy</sub-title>
+    <desc>Three members of a Minnesota family are shot by an intruder.</desc>
   </programme>
   <programme start="20250921211508 +0000" stop="20250921231247 +0000" channel="cw-midsomer-murders">
     <title>Midsomer Murders</title>
@@ -3670,20 +3662,15 @@
     <sub-title>The Scarecrow Murders</sub-title>
     <desc>A scarecrow festival takes a grisly turn when dead bodies are found staged like the straw creations.</desc>
   </programme>
-  <programme start="20250921193559 +0000" stop="20250921203055 +0000" channel="heartland">
-    <title>Heartland</title>
-    <sub-title>Home Sweet Home</sub-title>
-    <desc>Mallory arrives unexpectedly, which has Amy and Jack questioning the real reason for the surprise visit.</desc>
+  <programme start="20250922133618 +0000" stop="20250922152236 +0000" channel="cw-midsomer-murders">
+    <title>Midsomer Murders</title>
+    <sub-title>A Sacred Trust</sub-title>
+    <desc>The cloistered world of Midsomer Priory is forced to open its doors to 21st century policing.</desc>
   </programme>
-  <programme start="20250921203055 +0000" stop="20250921212801 +0000" channel="heartland">
-    <title>Heartland</title>
-    <sub-title>Forest for the Trees</sub-title>
-    <desc>Amy struggles with the feeling that something is not right when she and Jack strive to help a wild horse.</desc>
-  </programme>
-  <programme start="20250921212801 +0000" stop="20250921222257 +0000" channel="heartland">
-    <title>Heartland</title>
-    <sub-title>A Long Shot</sub-title>
-    <desc>A secret from Jack's past threatens to change his relationship with the family forever.</desc>
+  <programme start="20250922152236 +0000" stop="20250922171615 +0000" channel="cw-midsomer-murders">
+    <title>Midsomer Murders</title>
+    <sub-title>The Straw Woman</sub-title>
+    <desc>The curate of the local church in Midsomer Parva is burned alive in the effigy of the straw woman.</desc>
   </programme>
   <programme start="20250921222257 +0000" stop="20250921232003 +0000" channel="heartland">
     <title>Heartland</title>
@@ -3765,35 +3752,20 @@
     <sub-title>Doubt</sub-title>
     <desc>Lou is unsure how to support Georgie, who is considering giving up show jumping because of viral video.</desc>
   </programme>
-  <programme start="20250921194241 +0000" stop="20250921200655 +0000" channel="the-bold-and-the-beautiful">
-    <title>The Bold And The Beautiful</title>
-    <sub-title>The Bold And The Beautiful: Episode 6297</sub-title>
-    <desc>Amber panics as she realizes the potential danger she has put Hope in. Liam makes a mad dash to save a life.</desc>
+  <programme start="20250922132123 +0000" stop="20250922141619 +0000" channel="heartland">
+    <title>Heartland</title>
+    <sub-title>Naming Day</sub-title>
+    <desc>Right before the Fall Finale, Georgie is given a new offer by Val. Amy works on something special with Spartan before Lyndy's naming ceremony.</desc>
   </programme>
-  <programme start="20250921200655 +0000" stop="20250921203110 +0000" channel="the-bold-and-the-beautiful">
-    <title>The Bold And The Beautiful</title>
-    <sub-title>The Bold And The Beautiful: Episode 6298</sub-title>
-    <desc>Liam confides in Steffy after he and Hope fight. After a conversation with Amber, Hope makes a confession.</desc>
+  <programme start="20250922141619 +0000" stop="20250922151325 +0000" channel="heartland">
+    <title>Heartland</title>
+    <sub-title>Dare to Dream</sub-title>
+    <desc>Amy and Ty care for a wild mare and her foal. Which provides a solution to their parenting problems.</desc>
   </programme>
-  <programme start="20250921203110 +0000" stop="20250921205554 +0000" channel="the-bold-and-the-beautiful">
-    <title>The Bold And The Beautiful</title>
-    <sub-title>The Bold And The Beautiful: Episode 6299</sub-title>
-    <desc>Hope is vulnerable when explaining her situation to Liam. Taylor and Hope discuss Hope's PR nightmare.</desc>
-  </programme>
-  <programme start="20250921205554 +0000" stop="20250921212014 +0000" channel="the-bold-and-the-beautiful">
-    <title>The Bold And The Beautiful</title>
-    <sub-title>The Bold And The Beautiful: Episode 6300</sub-title>
-    <desc>Pam and Donna find themselves joined yet divided. Dr Barton delivers stunning news to Hope.</desc>
-  </programme>
-  <programme start="20250921212014 +0000" stop="20250921214430 +0000" channel="the-bold-and-the-beautiful">
-    <title>The Bold And The Beautiful</title>
-    <sub-title>The Bold And The Beautiful: Episode 6301</sub-title>
-    <desc>Marcus comes to Hope's rescue. Bill overhears Liam and Hope's private conversation, leading to an argument.</desc>
-  </programme>
-  <programme start="20250921214430 +0000" stop="20250921220844 +0000" channel="the-bold-and-the-beautiful">
-    <title>The Bold And The Beautiful</title>
-    <sub-title>The Bold And The Beautiful: Episode 6302</sub-title>
-    <desc>Brooke organizes a photoshoot for Rick and Caroline to bring them closer. Hope strikes a deal with Amber.</desc>
+  <programme start="20250922151325 +0000" stop="20250922161031 +0000" channel="heartland">
+    <title>Heartland</title>
+    <sub-title>Hearts Run Free</sub-title>
+    <desc>Amy and Ty plan a romantic trip to Pike River, but Jack tags along to visit an old friend.</desc>
   </programme>
   <programme start="20250921220844 +0000" stop="20250921223259 +0000" channel="the-bold-and-the-beautiful">
     <title>The Bold And The Beautiful</title>
@@ -3980,40 +3952,35 @@
     <sub-title>The Bold And The Beautiful: Episode 6339</sub-title>
     <desc>Hope shocks Brooke and Ridge when she informs them of two additional guests that she invited to the wedding.</desc>
   </programme>
-  <programme start="20250921194459 +0000" stop="20250921201139 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>Last Tango in Agrestic</sub-title>
-    <desc>Nancy is still reeling from Peter's revelation when she finds her youngest son has officially entered puberty.</desc>
+  <programme start="20250922131857 +0000" stop="20250922134317 +0000" channel="the-bold-and-the-beautiful">
+    <title>The Bold And The Beautiful</title>
+    <sub-title>The Bold And The Beautiful: Episode 6340</sub-title>
+    <desc>Bill uses his power to get Deacon out of jail and use him in his scheme to prevent Liam and Hope's wedding.</desc>
   </programme>
-  <programme start="20250921201139 +0000" stop="20250921203835 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>A.K.Athe Plant</sub-title>
-    <desc>Celia is mortified when Isabel is recruited to model for a plus-sized children's clothing line.</desc>
+  <programme start="20250922134317 +0000" stop="20250922140752 +0000" channel="the-bold-and-the-beautiful">
+    <title>The Bold And The Beautiful</title>
+    <sub-title>The Bold And The Beautiful: Episode 6341</sub-title>
+    <desc>Bill threatens Deacon when he wavers about his end of the deal. Steffy has a hard time watching Hope and Liam.</desc>
   </programme>
-  <programme start="20250921203835 +0000" stop="20250921210521 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>Mrs. Botwin's Neighborhood</sub-title>
-    <desc>The Armenian mob muscles in on Nancy's grow house while she deals with Silas and Megan's pregnancy.</desc>
+  <programme start="20250922140752 +0000" stop="20250922143157 +0000" channel="the-bold-and-the-beautiful">
+    <title>The Bold And The Beautiful</title>
+    <sub-title>The Bold And The Beautiful: Episode 6342</sub-title>
+    <desc>Bill attempts to convince Steffy to not leave Italy nor to give up on a life with Liam.</desc>
   </programme>
-  <programme start="20250921210521 +0000" stop="20250921213213 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>Crush Girl Love Panic</sub-title>
-    <desc>Nancy and Conrad fear their grow house has been raided by the DEA, but all remains mysteriously untouched.</desc>
+  <programme start="20250922143157 +0000" stop="20250922145611 +0000" channel="the-bold-and-the-beautiful">
+    <title>The Bold And The Beautiful</title>
+    <sub-title>The Bold And The Beautiful: Episode 6343</sub-title>
+    <desc>Ridge and Brooke enjoy a romantic afternoon while exploring the Masseria olive grove.</desc>
   </programme>
-  <programme start="20250921213213 +0000" stop="20250921215906 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>Must Find Toes</sub-title>
-    <desc>Nancy copes with Andy's grow house accident, Silas's plummeting grades and Shane's new crush.</desc>
+  <programme start="20250922145611 +0000" stop="20250922152025 +0000" channel="the-bold-and-the-beautiful">
+    <title>The Bold And The Beautiful</title>
+    <sub-title>The Bold And The Beautiful: Episode 6344</sub-title>
+    <desc>A couple in love is engaged. Bill comes across an obstacle as he works out the final details of his plan.</desc>
   </programme>
-  <programme start="20250921215906 +0000" stop="20250921222607 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>MILF Money</sub-title>
-    <desc>Nancy and Conrad make their first sale to Snoop Dogg, who writes a song about their high-quality product.</desc>
-  </programme>
-  <programme start="20250921222607 +0000" stop="20250921225307 +0000" channel="hersphere">
-    <title>Weeds</title>
-    <sub-title>Bash</sub-title>
-    <desc>Peter is embarrassed when his bust of Heylia goes awry thanks to Nancy's warning.</desc>
+  <programme start="20250922152025 +0000" stop="20250922154439 +0000" channel="the-bold-and-the-beautiful">
+    <title>The Bold And The Beautiful</title>
+    <sub-title>The Bold And The Beautiful: Episode 6345</sub-title>
+    <desc>Bill gives Liam one last chance to back out of marrying Hope before putting his plan in action.</desc>
   </programme>
   <programme start="20250921225307 +0000" stop="20250921232000 +0000" channel="hersphere">
     <title>Weeds</title>
@@ -4138,15 +4105,13 @@
     <title>Baby Snatcher</title>
     <desc>A mother struggles to reclaim her baby girl when she is taken by another woman who recently lost her own child</desc>
   </programme>
-  <programme start="20250921195452 +0000" stop="20250921204807 +0000" channel="nash-bridges">
-    <title>Nash Bridges</title>
-    <sub-title>The Tourist</sub-title>
-    <desc>Nash and Joe trail a renowned assassin who comes to San Francisco to kill an FBI special agent.</desc>
+  <programme start="20250922133202 +0000" stop="20250922151730 +0000" channel="hersphere">
+    <title>Down Will Come Baby</title>
+    <desc>Robin's parents are about to divorce, her mom is taking a new job, and a new woman befriends her father.</desc>
   </programme>
-  <programme start="20250921204807 +0000" stop="20250921214121 +0000" channel="nash-bridges">
-    <title>Nash Bridges</title>
-    <sub-title>Swingers</sub-title>
-    <desc>Nash and Caitlin go undercover to bust a couple preying on wealthy swingers.</desc>
+  <programme start="20250922151730 +0000" stop="20250922170432 +0000" channel="hersphere">
+    <title>Fifteen and Pregnant</title>
+    <desc>A 15-year-old turns to her recently-separated mother for help when she finds out she's pregnant.</desc>
   </programme>
   <programme start="20250921214121 +0000" stop="20250921223435 +0000" channel="nash-bridges">
     <title>Nash Bridges</title>
@@ -4238,20 +4203,20 @@
     <sub-title>Truth and Consequences</sub-title>
     <desc>Nash and the SIU crew plunge into the cutthroat world of media when a screen star is murdered.</desc>
   </programme>
-  <programme start="20250921193518 +0000" stop="20250921202625 +0000" channel="nashville">
-    <title>Nashville</title>
-    <sub-title>I've Got Reasons to Hate You</sub-title>
-    <desc>Rayna returns to the stage on her own terms as rumors fly regarding her breakup with Luke.</desc>
+  <programme start="20250922133516 +0000" stop="20250922142831 +0000" channel="nash-bridges">
+    <title>Nash Bridges</title>
+    <sub-title>Trade Off</sub-title>
+    <desc>When the boy is mistaken for the child of a restaurateur, Nash and the SIU track down kidnappers.</desc>
   </programme>
-  <programme start="20250921202625 +0000" stop="20250921211731 +0000" channel="nashville">
-    <title>Nashville</title>
-    <sub-title>I'm Lost Between Right and Wrong</sub-title>
-    <desc>Rayna disapproves of Jeff's plan to sign Maddie to Edgehill. Luke, Gunnar and Will go bar-hopping.</desc>
+  <programme start="20250922142831 +0000" stop="20250922152131 +0000" channel="nash-bridges">
+    <title>Nash Bridges</title>
+    <sub-title>Smash and Grab</sub-title>
+    <desc>Nash must stop a ring of thieves who pose as firefighters; a rollerblader sues Nash.</desc>
   </programme>
-  <programme start="20250921211731 +0000" stop="20250921220837 +0000" channel="nashville">
-    <title>Nashville</title>
-    <sub-title>Somebody Pick Up My Pieces</sub-title>
-    <desc>Jeff's career takes a tumble thanks to Rayna. Meanwhile, Sadie confides in Rayna about her ex-husband.</desc>
+  <programme start="20250922152131 +0000" stop="20250922161451 +0000" channel="nash-bridges">
+    <title>Nash Bridges</title>
+    <sub-title>Girl Trouble</sub-title>
+    <desc>A case of mistaken identity has Cassidy in trouble and Nash stumped as to who wants to harm her.</desc>
   </programme>
   <programme start="20250921220837 +0000" stop="20250921225940 +0000" channel="nashville">
     <title>Nashville</title>
@@ -4343,35 +4308,20 @@
     <sub-title>We've Got Nothing but Love to Prove</sub-title>
     <desc>Will Markus keen have a “good morning” on his live televised concert?</desc>
   </programme>
-  <programme start="20250921194752 +0000" stop="20250921201328 +0000" channel="anger-management">
-    <title>Anger Management</title>
-    <sub-title>Charlie &amp; The Mother of All Sessions</sub-title>
-    <desc>Charlie creates chaos when he surprises his therapy group by bringing their dysfunctional parents to a session.</desc>
+  <programme start="20250922132650 +0000" stop="20250922141755 +0000" channel="nashville">
+    <title>Nashville</title>
+    <sub-title>Forever and for Always</sub-title>
+    <desc>It's a dream wedding for Rayna and Deacon.</desc>
   </programme>
-  <programme start="20250921201328 +0000" stop="20250921203908 +0000" channel="anger-management">
-    <title>Anger Management</title>
-    <sub-title>Charlie &amp; Sean's Twisted Sister</sub-title>
-    <desc>Charlie struggles to resist temptations from Sean's hot younger sister.</desc>
+  <programme start="20250922141755 +0000" stop="20250922150900 +0000" channel="nashville">
+    <title>Nashville</title>
+    <sub-title>How Does It Feel to Be Free</sub-title>
+    <desc>Layla sets her sights on Avery as a familiar face to the Nashville music scene returns.</desc>
   </programme>
-  <programme start="20250921203908 +0000" stop="20250921210441 +0000" channel="anger-management">
-    <title>Anger Management</title>
-    <sub-title>Charlie Has a Threesome</sub-title>
-    <desc>Charlie's girlfriend brings home a hot friend.</desc>
-  </programme>
-  <programme start="20250921210441 +0000" stop="20250921213013 +0000" channel="anger-management">
-    <title>Anger Management</title>
-    <sub-title>Charlie &amp; The Lap Dance of Doom</sub-title>
-    <desc>Charlie gets Sean fired from the strip club when he sleeps with one of the strippers.</desc>
-  </programme>
-  <programme start="20250921213013 +0000" stop="20250921215553 +0000" channel="anger-management">
-    <title>Anger Management</title>
-    <sub-title>Charlie Tests His Will Power</sub-title>
-    <desc>Charlie promises a hot reporter an interview with an insanely angry convict.</desc>
-  </programme>
-  <programme start="20250921215553 +0000" stop="20250921222132 +0000" channel="anger-management">
-    <title>Anger Management</title>
-    <sub-title>Charlie &amp; The Psychic Therapist</sub-title>
-    <desc>Charlie and Jordan have to share a hotel room to expose a shady couple's therapist (Michael Gross).</desc>
+  <programme start="20250922150900 +0000" stop="20250922160007 +0000" channel="nashville">
+    <title>Nashville</title>
+    <sub-title>If I Could Do It All Again</sub-title>
+    <desc>Luke and Riff ready their tour while Vita drives a wedge between Deacon and Frankie.</desc>
   </programme>
   <programme start="20250921222132 +0000" stop="20250921224710 +0000" channel="anger-management">
     <title>Anger Management</title>
@@ -4548,35 +4498,35 @@
     <sub-title>Charlie's Dad Starts to Lose It</sub-title>
     <desc>Charlie isn't sure if his father, Martin, is developing Alzheimer's.</desc>
   </programme>
-  <programme start="20250921194005 +0000" stop="20250921200510 +0000" channel="love-thy-neighbor">
-    <title>Love Thy Neighbor</title>
-    <sub-title>Take Your Pick</sub-title>
-    <desc>Hattie and Drew make Linda an online dating profile.</desc>
+  <programme start="20250922131502 +0000" stop="20250922134041 +0000" channel="anger-management">
+    <title>Anger Management</title>
+    <sub-title>Charlie and the Ex-Patient</sub-title>
+    <desc>Charlie begins a questionable romantic relationship with an ex-patient.</desc>
   </programme>
-  <programme start="20250921200510 +0000" stop="20250921203019 +0000" channel="love-thy-neighbor">
-    <title>Love Thy Neighbor</title>
-    <sub-title>The Internet Suitor</sub-title>
-    <desc>Linda meets a man she met online.</desc>
+  <programme start="20250922134041 +0000" stop="20250922140615 +0000" channel="anger-management">
+    <title>Anger Management</title>
+    <sub-title>Charlie's Dad Breaks Bad</sub-title>
+    <desc>Charlie’s dad falls in with a bad crowd.</desc>
   </programme>
-  <programme start="20250921203019 +0000" stop="20250921205529 +0000" channel="love-thy-neighbor">
-    <title>Love Thy Neighbor</title>
-    <sub-title>The Predator</sub-title>
-    <desc>There's bad news about Linda's new boyfriend.</desc>
+  <programme start="20250922140615 +0000" stop="20250922143149 +0000" channel="anger-management">
+    <title>Anger Management</title>
+    <sub-title>Charlie &amp; Jen Together Again</sub-title>
+    <desc>Jennifer moves in with Charlie temporarily and Kate gets jealous.</desc>
   </programme>
-  <programme start="20250921205529 +0000" stop="20250921212034 +0000" channel="love-thy-neighbor">
-    <title>Love Thy Neighbor</title>
-    <sub-title>An Unfortunate Circumstance</sub-title>
-    <desc>Will ends up not being as bad as everyone thought.</desc>
+  <programme start="20250922143149 +0000" stop="20250922145727 +0000" channel="anger-management">
+    <title>Anger Management</title>
+    <sub-title>Charlie and Deception Therapy</sub-title>
+    <desc>Charlie tries to help his patient, Ed (Barry Corbin), with a placebo pill that’s supposedly reduces anger.</desc>
   </programme>
-  <programme start="20250921212034 +0000" stop="20250921214539 +0000" channel="love-thy-neighbor">
-    <title>Love Thy Neighbor</title>
-    <sub-title>Duped — Part 1</sub-title>
-    <desc>Linda looks for a new apartment; Will helps.</desc>
+  <programme start="20250922145727 +0000" stop="20250922152256 +0000" channel="anger-management">
+    <title>Anger Management</title>
+    <sub-title>Charlie Dates a Teacher</sub-title>
+    <desc>Charlie dates his daughter, Sam’s, teacher.</desc>
   </programme>
-  <programme start="20250921214539 +0000" stop="20250921221044 +0000" channel="love-thy-neighbor">
-    <title>Love Thy Neighbor</title>
-    <sub-title>Duped — Part 2</sub-title>
-    <desc>Linda is dismissive when the others tell her that Will has tricked her.</desc>
+  <programme start="20250922152256 +0000" stop="20250922154827 +0000" channel="anger-management">
+    <title>Anger Management</title>
+    <sub-title>Charlie and Cee Lo</sub-title>
+    <desc>Charlie takes on Cee Lo Green as an anger therapy patient.</desc>
   </programme>
   <programme start="20250921221044 +0000" stop="20250921223549 +0000" channel="love-thy-neighbor">
     <title>Love Thy Neighbor</title>
@@ -4768,30 +4718,35 @@
     <sub-title>An Empty Palate</sub-title>
     <desc>Linda threatens to call the wedding off if Philip does not change the furniture in his house.</desc>
   </programme>
-  <programme start="20250921195122 +0000" stop="20250921201953 +0000" channel="kims-convenience">
-    <title>Kim's Convenience</title>
-    <sub-title>Slippery Slope</sub-title>
-    <desc>Appa worries about Umma after a minor accident. Janet uses Jung's past to boost her reputation with students.</desc>
+  <programme start="20250922132109 +0000" stop="20250922134615 +0000" channel="love-thy-neighbor">
+    <title>Love Thy Neighbor</title>
+    <sub-title>Love Thy Decorator</sub-title>
+    <desc>Philip allows Linda to redecorate the house in whatever way she chooses.</desc>
   </programme>
-  <programme start="20250921201953 +0000" stop="20250921204824 +0000" channel="kims-convenience">
-    <title>Kim's Convenience</title>
-    <sub-title>Who's Pranking Who?</sub-title>
-    <desc>Kimchee's plan to impress the higher-ups backfires. Shannon inadvertently insults Umma's cooking. Appa and Janet enter a prank war.</desc>
+  <programme start="20250922134615 +0000" stop="20250922141120 +0000" channel="love-thy-neighbor">
+    <title>Love Thy Neighbor</title>
+    <sub-title>The Promotion</sub-title>
+    <desc>After Hattie finds out that Danny got a promotion, she asks him to help pay for Linda's wedding.</desc>
   </programme>
-  <programme start="20250921204824 +0000" stop="20250921211656 +0000" channel="kims-convenience">
-    <title>Kim's Convenience</title>
-    <sub-title>Matchy Matchy</sub-title>
-    <desc>Umma tries to set up Janet with their new mason. Shannon encourages Jung to give Appa a gift. Kimchee and Shannon work on employee evaluations.</desc>
+  <programme start="20250922141120 +0000" stop="20250922143425 +0000" channel="love-thy-neighbor">
+    <title>Love Thy Neighbor</title>
+    <sub-title>I Got You Baby</sub-title>
+    <desc>Linda asks Hattie if she'll stay and help her when the baby comes, because she doubts that Philip will help.</desc>
   </programme>
-  <programme start="20250921211656 +0000" stop="20250921214527 +0000" channel="kims-convenience">
-    <title>Kim's Convenience</title>
-    <sub-title>Hugs &amp; Prayers</sub-title>
-    <desc>Janet and Appa take a first aid course. Umma worries her prayers cause more harm than good. Shannon and Jung discuss their relationship.</desc>
+  <programme start="20250922143425 +0000" stop="20250922145931 +0000" channel="love-thy-neighbor">
+    <title>Love Thy Neighbor</title>
+    <sub-title>Troy</sub-title>
+    <desc>Danny shows Drew's cousin around for the weekend, and falls for her fast.</desc>
   </programme>
-  <programme start="20250921214527 +0000" stop="20250921221357 +0000" channel="kims-convenience">
-    <title>Kim's Convenience</title>
-    <sub-title>Gay Discount</sub-title>
-    <desc>Mr. Kim offers a gay discount at the store, while Mrs. Kim tries to find Janet a cool, Christian, Korean boyfriend.</desc>
+  <programme start="20250922145931 +0000" stop="20250922152436 +0000" channel="love-thy-neighbor">
+    <title>Love Thy Neighbor</title>
+    <sub-title>Vegas</sub-title>
+    <desc>Troy and Danny inevitably do something stupid in Las Vegas. In the last minute, Linda's water breaks.</desc>
+  </programme>
+  <programme start="20250922152436 +0000" stop="20250922154941 +0000" channel="love-thy-neighbor">
+    <title>Love Thy Neighbor</title>
+    <sub-title>A Mother's Heartbreak</sub-title>
+    <desc>Heartbroken, Linda has to put up with Danny's impulsive decisions.</desc>
   </programme>
   <programme start="20250921221357 +0000" stop="20250921224228 +0000" channel="kims-convenience">
     <title>Kim's Convenience</title>
@@ -4953,35 +4908,30 @@
     <sub-title>Janet's Boyfriend</sub-title>
     <desc>Janet struggles to keep her parents from learning about her relationship with Raj. Meanwhile, Jung and Kimchee plan a party.</desc>
   </programme>
-  <programme start="20250921193735 +0000" stop="20250921200243 +0000" channel="are-we-there-yet">
-    <title>Are We There Yet?</title>
-    <sub-title>The Thief Episode</sub-title>
-    <desc>Lindsey steals sixty dollars from Gigi's wallet and turns back around and blames Kevin for it.</desc>
+  <programme start="20250922132621 +0000" stop="20250922135451 +0000" channel="kims-convenience">
+    <title>Kim's Convenience</title>
+    <sub-title>Good Neighbours</sub-title>
+    <desc>Kim's Convenience gets a noisy new neighbor. Jung becomes smitten with a new co-worker. Gerald's new girlfriend rubs Janet the wrong way.</desc>
   </programme>
-  <programme start="20250921200243 +0000" stop="20250921202752 +0000" channel="are-we-there-yet">
-    <title>Are We There Yet?</title>
-    <sub-title>The Bad Dream Episode</sub-title>
-    <desc>Kevin and Nick goes to an R-rated movie, but Kevin has nightmares from seeing it.</desc>
+  <programme start="20250922135451 +0000" stop="20250922142321 +0000" channel="kims-convenience">
+    <title>Kim's Convenience</title>
+    <sub-title>Appa's First Text</sub-title>
+    <desc>Appa inherits his daughter's old smartphone. Umma finds a stray dog in the store. Janet and Kimchee bond over dim sum.</desc>
   </programme>
-  <programme start="20250921202752 +0000" stop="20250921205300 +0000" channel="are-we-there-yet">
-    <title>Are We There Yet?</title>
-    <sub-title>The 22 Episode</sub-title>
-    <desc>The family oversleeps on the day Lindsey is scheduled to sing the national anthem at a baseball game.</desc>
+  <programme start="20250922142321 +0000" stop="20250922145152 +0000" channel="kims-convenience">
+    <title>Kim's Convenience</title>
+    <sub-title>New Appa-liance</sub-title>
+    <desc>Appa's got a plan to get a new appliance for less, Jung looks to mend old fences and Janet searches for a way to differentiate herself online.</desc>
   </programme>
-  <programme start="20250921205300 +0000" stop="20250921211808 +0000" channel="are-we-there-yet">
-    <title>Are We There Yet?</title>
-    <sub-title>The Cooking Episode</sub-title>
-    <desc>Nick and Suzanne go head to head in the kitchen when Nick says cooking is &quot;easy.&quot;</desc>
+  <programme start="20250922145152 +0000" stop="20250922152022 +0000" channel="kims-convenience">
+    <title>Kim's Convenience</title>
+    <sub-title>Cutie Pie</sub-title>
+    <desc>Appa worries Umma will be jealous of a flirty online review. Jung returns to his old stomping grounds. Gerald's girlfriend ruffles Janet's feathers.</desc>
   </programme>
-  <programme start="20250921211808 +0000" stop="20250921214317 +0000" channel="are-we-there-yet">
-    <title>Are We There Yet?</title>
-    <sub-title>The Regift Episode</sub-title>
-    <desc>Suzanne tries to return an unlikely gift from Marilyin with Nick not knowing.</desc>
-  </programme>
-  <programme start="20250921214317 +0000" stop="20250921220826 +0000" channel="are-we-there-yet">
-    <title>Are We There Yet?</title>
-    <sub-title>The Suzanne Gets Arrested Episode</sub-title>
-    <desc>Suzanne gets arrested and decides to change her stubborn ways.</desc>
+  <programme start="20250922152022 +0000" stop="20250922154853 +0000" channel="kims-convenience">
+    <title>Kim's Convenience</title>
+    <sub-title>Open Kimunication</sub-title>
+    <desc>Appa and Umma take their bickering to a new level. Janet crosses paths with a photography idol. Shannon's boyfriend asks Jung for a favor.</desc>
   </programme>
   <programme start="20250921220826 +0000" stop="20250921223334 +0000" channel="are-we-there-yet">
     <title>Are We There Yet?</title>
@@ -5168,20 +5118,35 @@
     <sub-title>The Sex Symbol Episode</sub-title>
     <desc>Nick is voted as Seattle's sexiest sportscaster, but his newfound celebrity has downsides.</desc>
   </programme>
-  <programme start="20250921192745 +0000" stop="20250921201951 +0000" channel="cw-z-nation">
-    <title>Z Nation</title>
-    <sub-title>Mt. Weather</sub-title>
-    <desc>At Mount Weather, the group learns the thumb print of the president is necessary to achieve Warren's goal.</desc>
+  <programme start="20250922130618 +0000" stop="20250922133126 +0000" channel="are-we-there-yet">
+    <title>Are We There Yet?</title>
+    <sub-title>The Insignificant Anniversary Episode</sub-title>
+    <desc>Nick agrees to go to a Public Enemy concert on the same night as his &quot;proposa-versary&quot; with Suzanne.</desc>
   </programme>
-  <programme start="20250921201951 +0000" stop="20250921211152 +0000" channel="cw-z-nation">
-    <title>Z Nation</title>
-    <sub-title>The Black Rainbow</sub-title>
-    <desc>In the mind-bending season finale, the team arrives in Washington, D.C. and the secret of Warren's dreams is revealed.</desc>
+  <programme start="20250922133126 +0000" stop="20250922135435 +0000" channel="are-we-there-yet">
+    <title>Are We There Yet?</title>
+    <sub-title>The Long Con Episode</sub-title>
+    <desc>Nick attempts to make a profit off an expensive set of African masks that Kevin bought at a yard sale.</desc>
   </programme>
-  <programme start="20250921211152 +0000" stop="20250921220553 +0000" channel="cw-z-nation">
-    <title>Z Nation</title>
-    <sub-title>Welcome to the Newpocalypse</sub-title>
-    <desc>Following the drone crash, Warren is nursed back to health by attractive homesteader Cooper. Meanwhile, the others finally reach Newmerica, and Murphy goes his own way.</desc>
+  <programme start="20250922135435 +0000" stop="20250922141943 +0000" channel="are-we-there-yet">
+    <title>Are We There Yet?</title>
+    <sub-title>The Bigg Box Klub Episode</sub-title>
+    <desc>Nick goes crazy buying items in bulk that the family doesn't need a a discount super store.</desc>
+  </programme>
+  <programme start="20250922141943 +0000" stop="20250922144251 +0000" channel="are-we-there-yet">
+    <title>Are We There Yet?</title>
+    <sub-title>The Black Friday Episode</sub-title>
+    <desc>Comical chaos ensues when the gang waits in line to shop at a department store on Black Friday.</desc>
+  </programme>
+  <programme start="20250922144251 +0000" stop="20250922150759 +0000" channel="are-we-there-yet">
+    <title>Are We There Yet?</title>
+    <sub-title>The Blackout Episode</sub-title>
+    <desc>A guys' night out goes awry, resulting in lost recollections due to alcohol-fueled blackouts.</desc>
+  </programme>
+  <programme start="20250922150759 +0000" stop="20250922153107 +0000" channel="are-we-there-yet">
+    <title>Are We There Yet?</title>
+    <sub-title>The Wrong Way Episode</sub-title>
+    <desc>Nick attends his high-school reunion but must face an embarrassing incident from his past.</desc>
   </programme>
   <programme start="20250921220553 +0000" stop="20250921230204 +0000" channel="cw-z-nation">
     <title>Z Nation</title>
@@ -5268,20 +5233,20 @@
     <sub-title>Die Zombie Die... Again</sub-title>
     <desc>Split off from the others, Mack and Addy find themselves trapped by a zombie they just can't kill. A series of escalating fights forces them to confront an ugly truth hidden in their past.</desc>
   </programme>
-  <programme start="20250921192007 +0000" stop="20250921201723 +0000" channel="cw-continuum">
-    <title>Continuum</title>
-    <sub-title>Lost Hours</sub-title>
-    <desc>Newly arrived time travelers threaten to destroy Kiera and her alliance with Brad. Can her reignited desire to return to her own time and son be reconciled with the threat they now pose?</desc>
+  <programme start="20250922133306 +0000" stop="20250922142706 +0000" channel="cw-z-nation">
+    <title>Z Nation</title>
+    <sub-title>Sisters of Mercy</sub-title>
+    <desc>In need of shelter and supplies, the team seeks refuge in an all-female compound where men are not allowed.</desc>
   </programme>
-  <programme start="20250921201723 +0000" stop="20250921211439 +0000" channel="cw-continuum">
-    <title>Continuum</title>
-    <sub-title>Power Hour</sub-title>
-    <desc>Kellog meets his personal bodyguard sent from the ranks of his future soldiers. Julian takes a bold step in reclaiming control of his future, which inspires Alec.</desc>
+  <programme start="20250922142706 +0000" stop="20250922152105 +0000" channel="cw-z-nation">
+    <title>Z Nation</title>
+    <sub-title>Murphy's Law</sub-title>
+    <desc>Some strangers earn their ways into the team, taking a keen interest in Murphy, but things take a deadly turn.</desc>
   </programme>
-  <programme start="20250921211439 +0000" stop="20250921220945 +0000" channel="cw-continuum">
-    <title>Continuum</title>
-    <sub-title>Zero Hour</sub-title>
-    <desc>Kiera and Brad's trust reaches the breaking point. Carlos and Kellog come to their own realizations about alliances and deception.</desc>
+  <programme start="20250922152105 +0000" stop="20250922161504 +0000" channel="cw-z-nation">
+    <title>Z Nation</title>
+    <sub-title>Doctor of the Dead</sub-title>
+    <desc>A change in plans has the team re-routed to a Colorado viral lab located in a nuclear missile silo. The team searches for Dr. Merch, the developer of the experimental vaccine previously given to Murphy.</desc>
   </programme>
   <programme start="20250921220945 +0000" stop="20250921230450 +0000" channel="cw-continuum">
     <title>Continuum</title>
@@ -5363,20 +5328,20 @@
     <sub-title>Second Listen</sub-title>
     <desc>Kiera investigates the mysterious disappearance of several deceased time travelers' bodies. Alec is taken hostage by Garza on orders from his future self.</desc>
   </programme>
-  <programme start="20250921193910 +0000" stop="20250921203024 +0000" channel="cw-the-outpost">
-    <title>The Outpost</title>
-    <sub-title>From Paradise to Hell and Back</sub-title>
-    <desc>Yavalla's strength is tested as her daughter confronts her. Janzo, Talon and Zed attempt an assassination.</desc>
+  <programme start="20250922131458 +0000" stop="20250922141216 +0000" channel="cw-continuum">
+    <title>Continuum</title>
+    <sub-title>Second Wave</sub-title>
+    <desc>After a surprise attack by the Freelancers, Kiera is captured by Julian's followers. Alec reactivates Travis' military chip in order to hunt him, but the hunter soon becomes the hunted.</desc>
   </programme>
-  <programme start="20250921203024 +0000" stop="20250921212139 +0000" channel="cw-the-outpost">
-    <title>The Outpost</title>
-    <sub-title>The Hardest Part of Being Queen</sub-title>
-    <desc>Falista's anger is unleashed as she and Gwynn come to terms over Tobin. Janzo exposes a phony cure scheme.</desc>
+  <programme start="20250922141216 +0000" stop="20250922150717 +0000" channel="cw-continuum">
+    <title>Continuum</title>
+    <sub-title>Playtime</sub-title>
+    <desc>When two murder-suicides happen in the same day, Kiera and Carlos investigate the only tie between the two: a video game company.</desc>
   </programme>
-  <programme start="20250921212139 +0000" stop="20250921221254 +0000" channel="cw-the-outpost">
-    <title>The Outpost</title>
-    <sub-title>Where Death Lives</sub-title>
-    <desc>Talon and Zed learn painful truths about their relatives; Tobin makes a heroic rescue; Yavalla's horde grows as the outpost prepares for battle.</desc>
+  <programme start="20250922150717 +0000" stop="20250922160428 +0000" channel="cw-continuum">
+    <title>Continuum</title>
+    <sub-title>Family Time</sub-title>
+    <desc>Alerted to a bulk purchase of fertilizer they believe may be used to build a bomb, Kiera and Carlos visit Roland's farm.</desc>
   </programme>
   <programme start="20250921221254 +0000" stop="20250921230409 +0000" channel="cw-the-outpost">
     <title>The Outpost</title>
@@ -5468,13 +5433,20 @@
     <sub-title>Beyond the Wall</sub-title>
     <desc>Talon, Janzo and Garret venture into Greyskin territory in search of the &quot;Book of Names,&quot; all aware this may be Garret's last mission for the realm. Meanwhile, Everit Dred leads an army of the Prime Order to the outpost gates.</desc>
   </programme>
-  <programme start="20250921182755 +0000" stop="20250921201915 +0000" channel="outersphere">
-    <title>Return of the Living Dead III</title>
-    <desc>A young man uses a secret government chemical and program to reanimate his dead girlfriend.</desc>
+  <programme start="20250922134610 +0000" stop="20250922143924 +0000" channel="cw-the-outpost">
+    <title>The Outpost</title>
+    <sub-title>The Vex Rezicon</sub-title>
+    <desc>Talon, Garret and Janzo are ambushed and the &quot;Book of Names&quot; falls into enemy hands. The Prime Order settles into its new oppressive rule at the outpost. Everit Dred has Gwynn trapped, but she is instead taken captive by another threat.</desc>
   </programme>
-  <programme start="20250921201915 +0000" stop="20250921220237 +0000" channel="outersphere">
-    <title>Return of the Living Dead: Necropolis</title>
-    <desc>While attempting to rescue their friend, a group of teens release a horde of bloodthirsty zombies.</desc>
+  <programme start="20250922143924 +0000" stop="20250922152954 +0000" channel="cw-the-outpost">
+    <title>The Outpost</title>
+    <sub-title>We Only Kill to Survive</sub-title>
+    <desc>While Garret hunts for Dred, Gwynn prepares the outpost for war. The Mistress starts a new business and Talon summons a new threat.</desc>
+  </programme>
+  <programme start="20250922152954 +0000" stop="20250922161938 +0000" channel="cw-the-outpost">
+    <title>The Outpost</title>
+    <sub-title>This Is One Strange Town</sub-title>
+    <desc>Talon tries to outmaneuver her new rival while Gwynn struggles to maintain control of the outpost; a baron named Tobin marches in and makes an outrageous proposal; The Mistress bitterly reunites with a close relative.</desc>
   </programme>
   <programme start="20250921220237 +0000" stop="20250921234943 +0000" channel="outersphere">
     <title>Return of the Living Dead: Rave to the Grave</title>
@@ -5535,13 +5507,20 @@
     <sub-title>A Family of Spirits</sub-title>
     <desc>TAPS helps the USS Yorktown’s crew figure out if their paranormal activity points to their fallen heroes.</desc>
   </programme>
-  <programme start="20250921175553 +0000" stop="20250921200525 +0000" channel="filmrise-sci-fi">
-    <title>Marjorie Prime</title>
-    <desc>In 2050, 86-year-old Marjorie has a holographic companion who resembles her dead husband and is programmed to feed her the story of her life. With Lois Smith, Jon Hamm and Geena Davis.</desc>
+  <programme start="20250922133256 +0000" stop="20250922143014 +0000" channel="outersphere">
+    <title>Ghost Hunters</title>
+    <sub-title>Haunted By Heroes</sub-title>
+    <desc>TAPS revisits one of Grant’s favorite locations, Mt. Washington, in New Hampshire.</desc>
   </programme>
-  <programme start="20250921200525 +0000" stop="20250921215108 +0000" channel="filmrise-sci-fi">
-    <title>Shark Lake</title>
-    <desc>Action legend Dolph Lundgren goes head to head with a bloodthirsty shark that has a resort town under siege.</desc>
+  <programme start="20250922143014 +0000" stop="20250922152732 +0000" channel="outersphere">
+    <title>Ghost Hunters</title>
+    <sub-title>The Princess and the EVP</sub-title>
+    <desc>The final day has arrived – it’s Grant’s last investigation with TAPS.</desc>
+  </programme>
+  <programme start="20250922152732 +0000" stop="20250922162337 +0000" channel="outersphere">
+    <title>Ghost Hunters</title>
+    <sub-title>Please Sign the Ghostbook</sub-title>
+    <desc>TAPS investigates the Lamda Chi Fraternity House at the University of Rhode Island.</desc>
   </programme>
   <programme start="20250921215108 +0000" stop="20250921233325 +0000" channel="filmrise-sci-fi">
     <title>Alien Convergence</title>
@@ -5579,20 +5558,13 @@
     <title>Alien Convergence</title>
     <desc>When flying reptilian creatures wreak havoc, the only hope of stopping them is a state-of-the-art fighter jet.</desc>
   </programme>
-  <programme start="20250921193206 +0000" stop="20250921202545 +0000" channel="ghost-hunters">
-    <title>Ghost Hunters</title>
-    <sub-title>Unexplained Phenomena</sub-title>
-    <desc>TAPS takes a call from the American Legion in Pennsylvania where people are terrified by paranormals.</desc>
+  <programme start="20250922132415 +0000" stop="20250922151913 +0000" channel="filmrise-sci-fi">
+    <title>Taking Earth</title>
+    <desc>The human race is thrown into chaos as an alien invasion takes control of the planet in an effort to find one boy out of seven billion people who holds the power to destroy them.</desc>
   </programme>
-  <programme start="20250921202545 +0000" stop="20250921211923 +0000" channel="ghost-hunters">
-    <title>Ghost Hunters</title>
-    <sub-title>Hindenburg Crash Site</sub-title>
-    <desc>TAPS travels to the site where Hindenburg, one of history's most infamous disasters, took place.</desc>
-  </programme>
-  <programme start="20250921211923 +0000" stop="20250921221301 +0000" channel="ghost-hunters">
-    <title>Ghost Hunters</title>
-    <sub-title>Fort Ticonderoga</sub-title>
-    <desc>Fort Ticonderoga, located in upstate New York, is being haunted by the dead from three nations.</desc>
+  <programme start="20250922151913 +0000" stop="20250922165710 +0000" channel="filmrise-sci-fi">
+    <title>Sharknado: Heart of Sharkness</title>
+    <desc>A hilarious mockumentary about the filmmaker who first dreamed of &quot;sharks in a tornado&quot; - and brought on disaster by using real sharks.</desc>
   </programme>
   <programme start="20250921221301 +0000" stop="20250921230447 +0000" channel="ghost-hunters">
     <title>Ghost Hunters</title>
@@ -5684,30 +5656,20 @@
     <sub-title>The Oldest House in Georgia</sub-title>
     <desc>TAPS starts out at the Ulster County Jail in Kingston, NY, where inmates and personal have witnessed activity.</desc>
   </programme>
-  <programme start="20250921194211 +0000" stop="20250921200829 +0000" channel="haunt-tv">
-    <title>Close Encounters</title>
-    <sub-title>Episode 4</sub-title>
-    <desc>Witness a UFO laser light show, then get to the bottom of a farmer’s UFO attack.</desc>
+  <programme start="20250922134638 +0000" stop="20250922143824 +0000" channel="ghost-hunters">
+    <title>Ghost Hunters</title>
+    <sub-title>Home Is Where the Haunt Is</sub-title>
+    <desc>TAPS heads to Beardslee Castle in Little Falls, NY, which is a home turned into a restaurant.</desc>
   </programme>
-  <programme start="20250921200829 +0000" stop="20250921203446 +0000" channel="haunt-tv">
-    <title>Close Encounters</title>
-    <sub-title>Episode 5</sub-title>
-    <desc>Find out if aliens are after a nuclear missile and probe a divine UFO encounter.</desc>
+  <programme start="20250922143824 +0000" stop="20250922152943 +0000" channel="ghost-hunters">
+    <title>Ghost Hunters</title>
+    <sub-title>Empire State Haunt</sub-title>
+    <desc>TAPS heads to Fort William Henry where Ghost Hunters Academy winner Adam Berry joins the team.</desc>
   </programme>
-  <programme start="20250921203446 +0000" stop="20250921210103 +0000" channel="haunt-tv">
-    <title>Close Encounters</title>
-    <sub-title>Episode 6</sub-title>
-    <desc>Ponder the origin of a massive airship and look into an alien-induced blackout.</desc>
-  </programme>
-  <programme start="20250921210103 +0000" stop="20250921215349 +0000" channel="haunt-tv">
-    <title>Celebrity Help! My House is Haunted</title>
-    <sub-title>Jodie Kidd</sub-title>
-    <desc>Uncover the tragic story of the poltergeist that’s trashing this model’s pub.</desc>
-  </programme>
-  <programme start="20250921215349 +0000" stop="20250921224736 +0000" channel="haunt-tv">
-    <title>Celebrity Help! My House is Haunted</title>
-    <sub-title>Chloe Ferry</sub-title>
-    <desc>Discover a shadow man and links to a vile killer in this reality star’s mansion.</desc>
+  <programme start="20250922152943 +0000" stop="20250922162129 +0000" channel="ghost-hunters">
+    <title>Ghost Hunters</title>
+    <sub-title>Sloss Furnaces</sub-title>
+    <desc>TAPS travels to Alabama to investigate Sloss Furnaces, a 50-acre industrial plant.</desc>
   </programme>
   <programme start="20250921224736 +0000" stop="20250921234113 +0000" channel="haunt-tv">
     <title>Celebrity Help! My House is Haunted</title>
@@ -5809,9 +5771,20 @@
     <sub-title>Uninvited Evil</sub-title>
     <desc>Spar with uninvited evil, including a ghost arsonist and a phantom peeping Tom.</desc>
   </programme>
-  <programme start="20250921194947 +0000" stop="20250921215945 +0000" channel="scream-factory-tv">
-    <title>The Exorcist III</title>
-    <desc>Kinderman encounters a hospitalized mental patient claiming to be a dead serial killer,</desc>
+  <programme start="20250922134330 +0000" stop="20250922143920 +0000" channel="haunt-tv">
+    <title>Hotel Paranormal</title>
+    <sub-title>Scared Beyond Belief</sub-title>
+    <desc>Say goodbye to skepticism and see what made naysayers into paranormal crusaders.</desc>
+  </programme>
+  <programme start="20250922143920 +0000" stop="20250922153509 +0000" channel="haunt-tv">
+    <title>Haunted Gold Rush</title>
+    <sub-title>A Trail of Mysteries and Murders</sub-title>
+    <desc>Face a trailhead surprise and meet spirits with clues to a Gold-Rush-era crime.</desc>
+  </programme>
+  <programme start="20250922153509 +0000" stop="20250922163059 +0000" channel="haunt-tv">
+    <title>Haunted Gold Rush</title>
+    <sub-title>Ghost Towns and Graveyards</sub-title>
+    <desc>Come face to face with a hostile theatre spirit and see a courthouse revelation.</desc>
   </programme>
   <programme start="20250921215945 +0000" stop="20250921234556 +0000" channel="scream-factory-tv">
     <title>Alligator</title>
@@ -5849,13 +5822,9 @@
     <title>Chopping Mall</title>
     <desc>Eight teenagers trapped after hours in a high-tech shopping mall are pursued by murderous security robots.</desc>
   </programme>
-  <programme start="20250921191924 +0000" stop="20250921205721 +0000" channel="horror-by-alter">
-    <title>Bloodsucking Bastards</title>
-    <desc>Colleagues discover their new boss is a vampire who is turning their coworkers into fellow bloodsuckers.</desc>
-  </programme>
-  <programme start="20250921205721 +0000" stop="20250921224327 +0000" channel="horror-by-alter">
-    <title>Rabid</title>
-    <desc>Surgery leaves a Montreal motorcyclist with a bloodsucking appendage in her armpit.</desc>
+  <programme start="20250922141623 +0000" stop="20250922160304 +0000" channel="scream-factory-tv">
+    <title>The Stepfather</title>
+    <desc>After murdering his entire family, a man remarries a widow with a teenage daughter in another town.</desc>
   </programme>
   <programme start="20250921224327 +0000" stop="20250922005537 +0000" channel="horror-by-alter">
     <title>Donnie Darko</title>
@@ -5891,20 +5860,13 @@
     <title>Night of the Living Dead</title>
     <desc>A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the East Coast of the United States.</desc>
   </programme>
-  <programme start="20250921190000 +0000" stop="20250921200000 +0000" channel="always-funny">
-    <title>What Are You Laughing At?!</title>
-    <sub-title>What Are You Laughing At?!</sub-title>
-    <desc>Featuring the best clips of the day and hilarious comedians who always have something funny to say.</desc>
+  <programme start="20250922141244 +0000" stop="20250922155618 +0000" channel="horror-by-alter">
+    <title>Phantasm: Remastered</title>
+    <desc>The residents of a small town have begun dying under strange circumstances, leading young Mike to investigate.</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921210000 +0000" channel="always-funny">
-    <title>What Are You Laughing At?!</title>
-    <sub-title>What Are You Laughing At?!</sub-title>
-    <desc>Featuring the best clips of the day and hilarious comedians who always have something funny to say.</desc>
-  </programme>
-  <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="always-funny">
-    <title>What Are You Laughing At?!</title>
-    <sub-title>What Are You Laughing At?!</sub-title>
-    <desc>Featuring the best clips of the day and hilarious comedians who always have something funny to say.</desc>
+  <programme start="20250922155618 +0000" stop="20250922175239 +0000" channel="horror-by-alter">
+    <title>The Invitation</title>
+    <desc>In this taut psychological thriller by Karyn Kusama, the tension is palpable when Will shows up to his ex-wife Eden and new husband David's dinner party.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="always-funny">
     <title>What Are You Laughing At?!</title>
@@ -6051,35 +6013,35 @@
     <sub-title>World’s Funniest Videos Top 10 Countdown</sub-title>
     <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
   </programme>
-  <programme start="20250921193000 +0000" stop="20250921200000 +0000" channel="cw-always-funny-pranks-fails">
-    <title>Home Disaster Zone</title>
-    <sub-title>Home Disaster Zone</sub-title>
-    <desc>Everyone knows the biggest disasters happen under your own roof. Get ready, it's the Home Disaster Zone!</desc>
+  <programme start="20250922133000 +0000" stop="20250922140000 +0000" channel="always-funny">
+    <title>World's Funniest Videos Top 10 Countdown</title>
+    <sub-title>World's Funniest Videos Top 10 Countdown</sub-title>
+    <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921203000 +0000" channel="cw-always-funny-pranks-fails">
-    <title>Home Disaster Zone</title>
-    <sub-title>Home Disaster Zone</sub-title>
-    <desc>Everyone knows the biggest disasters happen under your own roof. Get ready, it's the Home Disaster Zone!</desc>
+  <programme start="20250922140000 +0000" stop="20250922143000 +0000" channel="always-funny">
+    <title>World's Funniest Videos Top 10 Countdown</title>
+    <sub-title>World's Funniest Videos Top 10 Countdown</sub-title>
+    <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
   </programme>
-  <programme start="20250921203000 +0000" stop="20250921210000 +0000" channel="cw-always-funny-pranks-fails">
-    <title>Home Disaster Zone</title>
-    <sub-title>Home Disaster Zone</sub-title>
-    <desc>Everyone knows the biggest disasters happen under your own roof. Get ready, it's the Home Disaster Zone!</desc>
+  <programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="always-funny">
+    <title>World's Funniest Videos Top 10 Countdown</title>
+    <sub-title>World’s Funniest Videos Top 10 Countdown</sub-title>
+    <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
   </programme>
-  <programme start="20250921210000 +0000" stop="20250921213000 +0000" channel="cw-always-funny-pranks-fails">
-    <title>Home Disaster Zone</title>
-    <sub-title>Home Disaster Zone</sub-title>
-    <desc>Everyone knows the biggest disasters happen under your own roof. Get ready, it's the Home Disaster Zone!</desc>
+  <programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="always-funny">
+    <title>World's Funniest Videos Top 10 Countdown</title>
+    <sub-title>World's Funniest Videos Top 10 Countdown</sub-title>
+    <desc>Humor has no international borders. We're bringing you the most hilarious moments across the globe.</desc>
   </programme>
-  <programme start="20250921213000 +0000" stop="20250921220000 +0000" channel="cw-always-funny-pranks-fails">
-    <title>Home Disaster Zone</title>
-    <sub-title>Home Disaster Zone</sub-title>
-    <desc>Everyone knows the biggest disasters happen under your own roof. Get ready, it's the Home Disaster Zone!</desc>
+  <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="always-funny">
+    <title>LOL Party</title>
+    <sub-title>LOL Party</sub-title>
+    <desc>From knee slaps to giggles, this is your invitation to the LOL Party’s Top 10 Countdown.</desc>
   </programme>
-  <programme start="20250921220000 +0000" stop="20250921223000 +0000" channel="cw-always-funny-pranks-fails">
-    <title>Home Disaster Zone</title>
-    <sub-title>Home Disaster Zone</sub-title>
-    <desc>Everyone knows the biggest disasters happen under your own roof. Get ready, it's the Home Disaster Zone!</desc>
+  <programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="always-funny">
+    <title>LOL Party</title>
+    <sub-title>LOL Party</sub-title>
+    <desc>From knee slaps to giggles, this is your invitation to the LOL Party’s Top 10 Countdown.</desc>
   </programme>
   <programme start="20250921223000 +0000" stop="20250921230000 +0000" channel="cw-always-funny-pranks-fails">
     <title>Home Disaster Zone</title>
@@ -6231,35 +6193,35 @@
     <sub-title>Fail Center</sub-title>
     <desc>Fail Center showcases the funniest fail videos matched with comedic sports commentary.</desc>
   </programme>
-  <programme start="20250921193000 +0000" stop="20250921200000 +0000" channel="laff-more">
-    <title>ALF</title>
-    <sub-title>Take a Look at Me Now</sub-title>
-    <desc>Mrs. Ochmonek thinks she's seeing things when she spots ALF in the backyard.</desc>
+  <programme start="20250922133000 +0000" stop="20250922140000 +0000" channel="cw-always-funny-pranks-fails">
+    <title>Fail Center</title>
+    <sub-title>Fail Center</sub-title>
+    <desc>Fail Center showcases the funniest fail videos matched with comedic sports commentary.</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921203000 +0000" channel="laff-more">
-    <title>The Millers</title>
-    <sub-title>Internet Dating</sub-title>
-    <desc>Nathan helps Carol set up a profile on an Internet dating site.</desc>
+  <programme start="20250922140000 +0000" stop="20250922143000 +0000" channel="cw-always-funny-pranks-fails">
+    <title>Fail Center</title>
+    <sub-title>Fail Center</sub-title>
+    <desc>Welcome to the Always Funny Fest, your one stop shop for all things hilarious!</desc>
   </programme>
-  <programme start="20250921203000 +0000" stop="20250921210000 +0000" channel="laff-more">
-    <title>The Millers</title>
-    <sub-title>You're in Trouble</sub-title>
-    <desc>When Nathan learns why Debbie is Tom's favorite child, he decides to expose some secrets.</desc>
+  <programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="cw-always-funny-pranks-fails">
+    <title>Fail Center</title>
+    <sub-title>Fail Center</sub-title>
+    <desc>Fail Center showcases the funniest fail videos matched with comedic sports commentary.</desc>
   </programme>
-  <programme start="20250921210000 +0000" stop="20250921213000 +0000" channel="laff-more">
-    <title>Home Improvement</title>
-    <sub-title>Aisle See You in My Dreams</sub-title>
-    <desc>Al takes his latest romance a little too seriously.</desc>
+  <programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="cw-always-funny-pranks-fails">
+    <title>Prank Video Showdown</title>
+    <sub-title>Prank Video Showdown</sub-title>
+    <desc>We show you the funniest pranks and hijinks, and put them head to head for the Ultimate Prank of the Day!</desc>
   </programme>
-  <programme start="20250921213000 +0000" stop="20250921220000 +0000" channel="laff-more">
-    <title>Home Improvement</title>
-    <sub-title>This Joke's for You</sub-title>
-    <desc>Tim (Tim Allen) realizes that Randy (Jonathan Taylor Thomas) has reached adolescence.</desc>
+  <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="cw-always-funny-pranks-fails">
+    <title>Prank Video Showdown</title>
+    <sub-title>Prank Video Showdown</sub-title>
+    <desc>We show you the funniest pranks and hijinks, and put them head to head for the Ultimate Prank of the Day!</desc>
   </programme>
-  <programme start="20250921220000 +0000" stop="20250921223000 +0000" channel="laff-more">
-    <title>Home Improvement</title>
-    <sub-title>A Sew, Sew Evening</sub-title>
-    <desc>Jill invites the new neighbors over for dinner -- a prospect Tim does not relish.</desc>
+  <programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="cw-always-funny-pranks-fails">
+    <title>Prank Video Showdown</title>
+    <sub-title>Prank Video Showdown</sub-title>
+    <desc>We show you the funniest pranks and hijinks, and put them head to head for the Ultimate Prank of the Day!</desc>
   </programme>
   <programme start="20250921223000 +0000" stop="20250921230000 +0000" channel="laff-more">
     <title>Home Improvement</title>
@@ -6411,30 +6373,35 @@
     <sub-title>Lucy and the Ring a Ding Ring</sub-title>
     <desc>Mrs. Mooney's diamond ring gets stuck on Lucy's finger.</desc>
   </programme>
-  <programme start="20250921194812 +0000" stop="20250921201642 +0000" channel="80s-sitcom-flashback">
-    <title>The Ropers</title>
-    <sub-title>The Ropers</sub-title>
-    <desc>Stanley's physical checkup for a life insurance policy has him convinced his days are numbered.</desc>
+  <programme start="20250922133000 +0000" stop="20250922140000 +0000" channel="laff-more">
+    <title>The Lucy Show</title>
+    <sub-title>Lucy Flies to London</sub-title>
+    <desc>Lucy enters a dog food jingle contest and wins the grand prize, a trip to London, England.</desc>
   </programme>
-  <programme start="20250921201642 +0000" stop="20250921204511 +0000" channel="80s-sitcom-flashback">
-    <title>The Ropers</title>
-    <sub-title>The Ropers</sub-title>
-    <desc>Mrs. Roper thinks her husband is having an affair when she finds his hidden stash of love letters , written to a woman named Doris.</desc>
+  <programme start="20250922140000 +0000" stop="20250922143000 +0000" channel="laff-more">
+    <title>The Ghost and Mrs. Muir</title>
+    <sub-title>The Real James Gatley</sub-title>
+    <desc>Claymore has a duplicate barometer made in order to sell the captain's.</desc>
   </programme>
-  <programme start="20250921204511 +0000" stop="20250921211338 +0000" channel="80s-sitcom-flashback">
-    <title>The Ropers</title>
-    <sub-title>The Ropers</sub-title>
-    <desc>Helen's mother comes for a visit. But later it is revealed that she has no place to go. So Helen and her two sisters get together to decide what to do, cause none of them really want her living with them.</desc>
+  <programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="laff-more">
+    <title>The Ghost and Mrs. Muir</title>
+    <sub-title>Uncle Arnold the Magnificent</sub-title>
+    <desc>The captain helps Carolyn's uncle (Jack Gilford) be a hit with the kids.</desc>
   </programme>
-  <programme start="20250921211338 +0000" stop="20250921214213 +0000" channel="80s-sitcom-flashback">
-    <title>The Ropers</title>
-    <sub-title>Opportunity Knocks</sub-title>
-    <desc>Helen's luncheon makes her consider leaving the Cheviot Hills neighborhood. Stanley believes her and, without asking, has Jeffrey Brookes put their home on the market. Will The Ropers really relocate?</desc>
+  <programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="laff-more">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>Jed Becomes a Banker</sub-title>
+    <desc>Jed is made a bank vice president so he can compete in an interbank skeet shoot.</desc>
   </programme>
-  <programme start="20250921214213 +0000" stop="20250921221040 +0000" channel="80s-sitcom-flashback">
-    <title>The Ropers</title>
-    <sub-title>Days of Beer and Rosie</sub-title>
-    <desc>A man shows up and claims to be Stanley's son. Stanley admits to know his mother, but doesn't remember the night that she claimed to conceive her son. Roper goes to talk to a friend who was with him at the time to find out if the claims are true.</desc>
+  <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="laff-more">
+    <title>The Beverly Hillbillies</title>
+    <sub-title>The Family Tree</sub-title>
+    <desc>An authority on American history finds evidence that Jed's ancestors preceded the Mayflower.</desc>
+  </programme>
+  <programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="laff-more">
+    <title>ALF</title>
+    <sub-title>Some Enchanted Evening</sub-title>
+    <desc>ALF becomes the star attraction at the Tanners' Halloween party.</desc>
   </programme>
   <programme start="20250921221040 +0000" stop="20250921223909 +0000" channel="80s-sitcom-flashback">
     <title>The Ropers</title>
@@ -6596,20 +6563,30 @@
     <sub-title>King for a Day</sub-title>
     <desc>With his restaurant suddenly popular after a glowing review, Jack forgets about his and Vicky's first anniversary.</desc>
   </programme>
-  <programme start="20250921190848 +0000" stop="20250921203121 +0000" channel="alien-nation">
-    <title>Sasquatch Unearthed: Mountain State Monsters</title>
-    <sub-title>The Sound of Terror</sub-title>
-    <desc>Audio collected across the state of West Virginia is discussed in this episode of Mountain State Monsters.</desc>
+  <programme start="20250922131855 +0000" stop="20250922134720 +0000" channel="80s-sitcom-flashback">
+    <title>Three's A Crowd</title>
+    <sub-title>One Ego to Go</sub-title>
+    <desc>With his ego bruised after to losing a trivia game to Vicky, Jack tries to best her but ends up embarrassing himself at a beach carnival in front of guests.</desc>
   </programme>
-  <programme start="20250921203121 +0000" stop="20250921211659 +0000" channel="alien-nation">
-    <title>Sasquatch Unearthed: The Ridge</title>
-    <sub-title>The Subterranean Sasquatch</sub-title>
-    <desc>Hundreds of caves lay beneath the rolling hills of the Chestnut Ridge, caverns that could house Sasquatch.</desc>
+  <programme start="20250922134720 +0000" stop="20250922141545 +0000" channel="80s-sitcom-flashback">
+    <title>Three's A Crowd</title>
+    <sub-title>A Little Competition</sub-title>
+    <desc>Vicky's former boyfriend opens a seafood restaurant across from Jack's Bistro and makes Jack jealous.</desc>
   </programme>
-  <programme start="20250921211659 +0000" stop="20250921221205 +0000" channel="alien-nation">
-    <title>Sasquatch Unearthed: The Ridge</title>
-    <sub-title>The Sinister Truth Revealed</sub-title>
-    <desc>The Chestnut Ridge is hiding a dark truth about the origins of Sasquatch.</desc>
+  <programme start="20250922141545 +0000" stop="20250922144334 +0000" channel="80s-sitcom-flashback">
+    <title>Talk About</title>
+    <sub-title>Episode 219</sub-title>
+    <desc>Debbie &amp; Cindy vs. Gordon &amp; Brent</desc>
+  </programme>
+  <programme start="20250922144334 +0000" stop="20250922151122 +0000" channel="80s-sitcom-flashback">
+    <title>Talk About</title>
+    <sub-title>Episode 210</sub-title>
+    <desc>Glenn &amp; Andrew vs. Joanne &amp; Heather</desc>
+  </programme>
+  <programme start="20250922151122 +0000" stop="20250922153911 +0000" channel="80s-sitcom-flashback">
+    <title>Talk About</title>
+    <sub-title>Episode 206</sub-title>
+    <desc>Richard &amp; Naomi vs. Pam &amp; Kim</desc>
   </programme>
   <programme start="20250921221205 +0000" stop="20250921230753 +0000" channel="alien-nation">
     <title>Sasquatch Unearthed: The Ridge</title>
@@ -6675,35 +6652,14 @@
     <sub-title>The Hunter Becomes Hunted</sub-title>
     <desc>Deep in the darkened forests of West Virginia, a legend roams. Investigator Russ Jones tracks Bigfoot.</desc>
   </programme>
-  <programme start="20250921194119 +0000" stop="20250921200949 +0000" channel="anime">
-    <title>Yu-Gi-Oh! Zexal (English Dub)</title>
-    <sub-title>The Adventures of Artimus Stanleyus</sub-title>
-    <desc>Shark gets hooked into a battle with the Barians when the president of the Comic Book Appreciation Club challenges him to a duel.</desc>
+  <programme start="20250922135207 +0000" stop="20250922152014 +0000" channel="alien-nation">
+    <title>Sasquatch Unearthed: Mountain State Monsters</title>
+    <sub-title>Man vs Beast</sub-title>
+    <desc>Sightings around Sutton Lake help to act as a window into the greater Bigfoot mystery.</desc>
   </programme>
-  <programme start="20250921200949 +0000" stop="20250921203848 +0000" channel="anime">
-    <title>Bakugan Battle Brawlers</title>
-    <sub-title>Say It Ain't So, Joe!</sub-title>
-    <desc>The Brawlers think that Joe the webmaster is spying on them. When Dan confronts him about his relationship with Masquerade, Joe says he'll talk if Dan fights him!</desc>
-  </programme>
-  <programme start="20250921203848 +0000" stop="20250921210747 +0000" channel="anime">
-    <title>Bakugan Battle Brawlers</title>
-    <sub-title>The Secret of Success!</sub-title>
-    <desc>Alice makes friends with a young Bakugan player named Christopher who loves his Bakugan yet cannot win a battle. She convinces him that battling is more than just cleverness and strength; it's about confidence.</desc>
-  </programme>
-  <programme start="20250921210747 +0000" stop="20250921213645 +0000" channel="anime">
-    <title>Bakugan Battle Brawlers</title>
-    <sub-title>Trust Me</sub-title>
-    <desc>Runo suspects Alice is secretly spying on the Brawlers and giving information to Masquerade.</desc>
-  </programme>
-  <programme start="20250921213645 +0000" stop="20250921220544 +0000" channel="anime">
-    <title>Bakugan Battle Brawlers</title>
-    <sub-title>Bakugan the Battle Begins</sub-title>
-    <desc>The Bakugan Drago who will soon become Dan's closest ally, begins to explain the origin of Bakugan and the Dimension of Vestroia.</desc>
-  </programme>
-  <programme start="20250921220544 +0000" stop="20250921223443 +0000" channel="anime">
-    <title>Bakugan Battle Brawlers</title>
-    <sub-title>Masquerade Ball</sub-title>
-    <desc>It seems a very gifted and mysterious Bakugan player named Masquerade has been stealing Bakugan from kids all around the world.</desc>
+  <programme start="20250922152014 +0000" stop="20250922165448 +0000" channel="alien-nation">
+    <title>Aliens Uncovered: ET or Man-Made</title>
+    <desc>The crash of Roswell wasn't meant for New Mexico.</desc>
   </programme>
   <programme start="20250921223443 +0000" stop="20250921230342 +0000" channel="anime">
     <title>Bakugan Battle Brawlers</title>
@@ -6860,9 +6816,35 @@
     <sub-title>A Snake in the Grass: Part 2</sub-title>
     <desc>Jaden continues his duel with Viper, but in a swamp full of serpents, will he be able to find victory?</desc>
   </programme>
-  <programme start="20250921182603 +0000" stop="20250921204717 +0000" channel="non-stop-90s">
-    <title>Point Break</title>
-    <desc>An F.B.I. Agent goes undercover to catch a gang of surfers who may be bank robbers.</desc>
+  <programme start="20250922131732 +0000" stop="20250922134455 +0000" channel="anime">
+    <title>Yu-Gi-Oh! GX</title>
+    <sub-title>Inter-Dimension Detention</sub-title>
+    <desc>Jaden and his friends find themselves in a different dimension where duel monsters are real, the ocean is a sea of sand and...wait, class is still in session?</desc>
+  </programme>
+  <programme start="20250922134455 +0000" stop="20250922141235 +0000" channel="anime">
+    <title>Yu-Gi-Oh! GX</title>
+    <sub-title>Sub-Desert Duel</sub-title>
+    <desc>After one of their classmates becomes ill, the gang ventures off to find a deserted submarine in the desert.</desc>
+  </programme>
+  <programme start="20250922141235 +0000" stop="20250922144133 +0000" channel="anime">
+    <title>Bakugan Battle Brawlers: New Vestroia</title>
+    <sub-title>Get Psyched!</sub-title>
+    <desc>In preparation for the upcoming battles with the Vexos, Dan agrees to train Baron. He introduces a surprising new concept to the Resistance.</desc>
+  </programme>
+  <programme start="20250922144133 +0000" stop="20250922151032 +0000" channel="anime">
+    <title>Bakugan Battle Brawlers: New Vestroia</title>
+    <sub-title>Marucho's Mission</sub-title>
+    <desc>After seeing all of his teammates practice, Marucho feels like he isn't contributing to the resistance.</desc>
+  </programme>
+  <programme start="20250922151032 +0000" stop="20250922153930 +0000" channel="anime">
+    <title>Bakugan Battle Brawlers: New Vestroia</title>
+    <sub-title>Return of A Friend</sub-title>
+    <desc>Dan awakes from a nightmare involving the recent loss of Gus, while the Resistance begins to train more.</desc>
+  </programme>
+  <programme start="20250922153930 +0000" stop="20250922160829 +0000" channel="anime">
+    <title>Bakugan Battle Brawlers: New Vestroia</title>
+    <sub-title>Cyber Nightmare</sub-title>
+    <desc>With their new teammate Shun on their side, the Bakugan Battle Brawlers Resistance sneaks into Alpha Curt in New Vestroia.</desc>
   </programme>
   <programme start="20250921204717 +0000" stop="20250921230111 +0000" channel="non-stop-90s">
     <title>The Getaway</title>
@@ -6923,20 +6905,20 @@
     <sub-title>Father Eddie</sub-title>
     <desc>Father Baxter, a dedicated worker with inner-city youths, is convinced that his prot�g� Marco is innocent, even though the young man is Tony's prime suspect in a murder investigation.</desc>
   </programme>
-  <programme start="20250921193101 +0000" stop="20250921201902 +0000" channel="ebony-tv">
-    <title>Greenleaf</title>
-    <sub-title>One Train May Hide Another</sub-title>
-    <desc>Mac is slated to be named &quot;Memphis Man of the Year,&quot; but first must advise Charity about the music director.</desc>
+  <programme start="20250922131637 +0000" stop="20250922141327 +0000" channel="non-stop-90s">
+    <title>The Commish</title>
+    <sub-title>Bank Job</sub-title>
+    <desc>Tony discovers David is dating the daughter of a ruthless bookie.</desc>
   </programme>
-  <programme start="20250921201902 +0000" stop="20250921210909 +0000" channel="ebony-tv">
-    <title>Greenleaf</title>
-    <sub-title>The Whole Book</sub-title>
-    <desc>Grace reaches out to Officer Nelson while also working with Noah in an effort to find evidence against Mac.</desc>
+  <programme start="20250922141327 +0000" stop="20250922150725 +0000" channel="non-stop-90s">
+    <title>Hawkeye</title>
+    <sub-title>The Bear</sub-title>
+    <desc>Elizabeth is scared by a bear and Hawkeye advises her to learn to take care of herself. They trade services.</desc>
   </programme>
-  <programme start="20250921210909 +0000" stop="20250921221731 +0000" channel="ebony-tv">
-    <title>Power</title>
-    <sub-title>A Friend of the Family</sub-title>
-    <desc>The AUSA turns up the heat on Ghost and implicates his inner circle in a RICO.</desc>
+  <programme start="20250922150725 +0000" stop="20250922160243 +0000" channel="non-stop-90s">
+    <title>Hawkeye</title>
+    <sub-title>The Furlough</sub-title>
+    <desc>Hawkeye asks for a 24-hour furlough to set his life in order after being captured when saving Sarah Pritchard.</desc>
   </programme>
   <programme start="20250921221731 +0000" stop="20250921232608 +0000" channel="ebony-tv">
     <title>Power</title>
@@ -7023,17 +7005,40 @@
     <sub-title>The Valentine's Day Episode</sub-title>
     <desc>Nick flops in his efforts to help Kevin with Valentine's Day at school.</desc>
   </programme>
-  <programme start="20250921184847 +0000" stop="20250921200019 +0000" channel="the-blk-effect">
-    <title>The Next 8 Seconds</title>
-    <desc>The Next 8 Seconds chronicles the life and career of Neil Holmes, an African American bull rider.</desc>
+  <programme start="20250922132510 +0000" stop="20250922135018 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The Parent Teacher Trap Episode</sub-title>
+    <desc>Suzanne serves on a committee at Kevin's school, but her fellow female members disrespect her-but adore Nick.</desc>
   </programme>
-  <programme start="20250921200019 +0000" stop="20250921205512 +0000" channel="the-blk-effect">
-    <title>Believe: The Barack Obama Story</title>
-    <desc>Believe: The Barack Obama Story is an intimate portrait of the life of Barack Obama.</desc>
+  <programme start="20250922135018 +0000" stop="20250922141526 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The Whose Card Is It Anyway Episode</sub-title>
+    <desc>When Nick misleads Suzanne about spending a gift card, they appear before a TV judge to sort out the truth.</desc>
   </programme>
-  <programme start="20250921205512 +0000" stop="20250921221346 +0000" channel="the-blk-effect">
-    <title>The Remix: Hip Hop X Fashion</title>
-    <desc>The Remix: Hip Hop X Fashion traces the impact of street fashion and African American creativity on global cul</desc>
+  <programme start="20250922141526 +0000" stop="20250922144034 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The Suzanne Gets One-Upped Episode</sub-title>
+    <desc>Nick plans a belated surprise honeymoon for Suzanne, but keeping it a secret causes complications.</desc>
+  </programme>
+  <programme start="20250922144034 +0000" stop="20250922150742 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The First .45 Episode</sub-title>
+    <desc>As Lindsey films a reality show about her family, Kevin comes across a gun in Suzanne's handbag.</desc>
+  </programme>
+  <programme start="20250922150742 +0000" stop="20250922153250 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The Take Your Kids to Work Day Episode</sub-title>
+    <desc>When Lindsey accompanies Suzanne to work and meets an old friend of her mother's.</desc>
+  </programme>
+  <programme start="20250922153250 +0000" stop="20250922155758 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The Fall of Troy Episode</sub-title>
+    <desc>When Troy provokes a bully, Kevin starts hanging out with the bully as a way to avoid getting beat up.</desc>
+  </programme>
+  <programme start="20250922155758 +0000" stop="20250922162505 +0000" channel="ebony-tv">
+    <title>Are We There Yet?</title>
+    <sub-title>The Pole Dance Episode</sub-title>
+    <desc>When Suzanne catches Nick spying a rap video with a pole dancer, she shows him her own pole-dancing prowess.</desc>
   </programme>
   <programme start="20250921221346 +0000" stop="20250922002232 +0000" channel="the-blk-effect">
     <title>Kickin' It Old Skool</title>
@@ -7082,25 +7087,25 @@
     <sub-title>Welcome To Long Beach, Baby</sub-title>
     <desc>Competition for the starting quarterback spot starts; a senior's future is uncertain after an injury.</desc>
   </programme>
-  <programme start="20250921193000 +0000" stop="20250921200000 +0000" channel="bounce-xl">
-    <title>Mann &amp; Wife</title>
-    <sub-title>Here Come the Manns</sub-title>
-    <desc>Daniel and Toni return home from their honeymoon to their new life, including their blended family.</desc>
+  <programme start="20250922142454 +0000" stop="20250922144955 +0000" channel="the-blk-effect">
+    <title>4th &amp; Forever</title>
+    <sub-title>Defend Our Territory</sub-title>
+    <desc>After the loss to St. Bonaventure, coach Lara warns of position changes; the quarterbacks continue to struggle</desc>
   </programme>
-  <programme start="20250921200000 +0000" stop="20250921203000 +0000" channel="bounce-xl">
-    <title>Mann &amp; Wife</title>
-    <sub-title>Mann's New Baby</sub-title>
-    <desc>The family becomes ill which leaves Daniel to take care of DJ's class assignment.</desc>
+  <programme start="20250922144955 +0000" stop="20250922151455 +0000" channel="the-blk-effect">
+    <title>4th &amp; Forever</title>
+    <sub-title>They're Rich And We're Not</sub-title>
+    <desc>The team prepares for powerful Mission Viejo; Devin Jackson complains about playing time.</desc>
   </programme>
-  <programme start="20250921203000 +0000" stop="20250921210000 +0000" channel="bounce-xl">
-    <title>Mann &amp; Wife</title>
-    <sub-title>Mann-datory Counseling</sub-title>
-    <desc>Daniel and Michael are forced to attend communication therapy.</desc>
+  <programme start="20250922151455 +0000" stop="20250922153955 +0000" channel="the-blk-effect">
+    <title>4th &amp; Forever</title>
+    <sub-title>Live For The Moment</sub-title>
+    <desc>After an embarrassing loss at home, the coach is questioned about his decision on starting QB.</desc>
   </programme>
-  <programme start="20250921210000 +0000" stop="20250921220000 +0000" channel="bounce-xl">
-    <title>Saints &amp; Sinners</title>
-    <sub-title>Best Laid Plans</sub-title>
-    <desc>Rex doubles down on his love for Ella as she scrambles to buy back Greater Hope.</desc>
+  <programme start="20250922153955 +0000" stop="20250922160455 +0000" channel="the-blk-effect">
+    <title>4th &amp; Forever</title>
+    <sub-title>We Better Battle</sub-title>
+    <desc>Coach Lara tries to motivate his players for the game with Lakewood.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250921230000 +0000" channel="bounce-xl">
     <title>Saints &amp; Sinners</title>
@@ -7202,35 +7207,35 @@
     <sub-title>Benjamin vs. Benjamin</sub-title>
     <desc>A forensic voice analysis expert reveals whether or not an Idaho woman cheated on her husband.</desc>
   </programme>
-  <programme start="20250921194438 +0000" stop="20250921200903 +0000" channel="jack-hanna">
-    <title>Jack Hanna's Wild Countdown</title>
-    <sub-title>Baby, You're the Greatest</sub-title>
-    <desc>Cute and cuddly creatures guaranteed to make you smile!</desc>
+  <programme start="20250922133000 +0000" stop="20250922140000 +0000" channel="bounce-xl">
+    <title>Couples Court With the Cutlers</title>
+    <sub-title>Womack vs. Bass</sub-title>
+    <desc>A woman accuses her boyfriend's family member of leading him into the arms of other women.</desc>
   </programme>
-  <programme start="20250921200903 +0000" stop="20250921203313 +0000" channel="jack-hanna">
-    <title>Jack Hanna's Wild Countdown</title>
-    <sub-title>Back to the Wild</sub-title>
-    <desc>Jack is counting down six special stories of lucky creatures returning to their native habitats!</desc>
+  <programme start="20250922140000 +0000" stop="20250922143000 +0000" channel="bounce-xl">
+    <title>Couples Court With the Cutlers</title>
+    <sub-title>Nickerson vs. Nickerson</sub-title>
+    <desc>A Louisiana man reconciles with his wife but suspects she continues to have an affair.</desc>
   </programme>
-  <programme start="20250921203313 +0000" stop="20250921205743 +0000" channel="jack-hanna">
-    <title>Jack Hanna's Wild Countdown</title>
-    <sub-title>Best Dressed</sub-title>
-    <desc>Meet some of the best dressed animals on the planet! Penguins, Leopards, Painted Dogs, Zebras, Lions &amp; more!</desc>
+  <programme start="20250922143000 +0000" stop="20250922150000 +0000" channel="bounce-xl">
+    <title>Couples Court With the Cutlers</title>
+    <sub-title>Runles vs. Taylor</sub-title>
+    <desc>A Michigan man worries his fiancee is cheating again, but she insists those days are behind her.</desc>
   </programme>
-  <programme start="20250921205743 +0000" stop="20250921212153 +0000" channel="jack-hanna">
-    <title>Jack Hanna's Wild Countdown</title>
-    <sub-title>Big Barnyard Countdown</sub-title>
-    <desc>Jungle Jack is back at the barnyard with six of his favorite farm animal friends!</desc>
+  <programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="bounce-xl">
+    <title>Lauren Lake's Paternity Court</title>
+    <sub-title>Richardson vs. Robbins</sub-title>
+    <desc>A man claims his ex-girlfriend is still married and believes her husband is the father of her son.</desc>
   </programme>
-  <programme start="20250921212153 +0000" stop="20250921214629 +0000" channel="jack-hanna">
-    <title>Jack Hanna's Wild Countdown</title>
-    <sub-title>Big Bear Countdown</sub-title>
-    <desc>Join Jack as he counts down his coolest bear experiences!</desc>
+  <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="bounce-xl">
+    <title>Lauren Lake's Paternity Court</title>
+    <sub-title>Hardy vs. Lynn</sub-title>
+    <desc>Woman returns to court with two of her mother's ex-lovers and hopes that one of them is her father.</desc>
   </programme>
-  <programme start="20250921214629 +0000" stop="20250921221038 +0000" channel="jack-hanna">
-    <title>Jack Hanna's Wild Countdown</title>
-    <sub-title>Big Green Eating Machines</sub-title>
-    <desc>Join Jungle Jack for a massive countdown filled with the planet’s most voracious vegetarians!</desc>
+  <programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="bounce-xl">
+    <title>Lauren Lake's Paternity Court</title>
+    <sub-title>Dark vs. Bailey</sub-title>
+    <desc>A man and his pregnant girlfriend claim he is not the father of another woman's 13-month-old son.</desc>
   </programme>
   <programme start="20250921221038 +0000" stop="20250921223519 +0000" channel="jack-hanna">
     <title>Jack Hanna's Wild Countdown</title>
@@ -7417,45 +7422,35 @@
     <sub-title>Bruny Island</sub-title>
     <desc>See an all-white wallaby, watch wild fur seals at play and go on a thrilling boat ride on the Tasman Sea!</desc>
   </programme>
-  <programme start="20250921194833 +0000" stop="20250921201124 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Aus-Tail-ia</sub-title>
-    <desc>Sheinelle Jones leads us back down under where we’ll discover the animal infants that thrive in Australia.</desc>
+  <programme start="20250922131701 +0000" stop="20250922134143 +0000" channel="jack-hanna">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Braving Bocas</sub-title>
+    <desc>Jack hikes into a remote cave for an up-close look at bats!</desc>
   </programme>
-  <programme start="20250921201124 +0000" stop="20250921203415 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Asia Minors</sub-title>
-    <desc>Sheinelle Jones takes us back to the continent of Asia to discover the baby animals that survive and thrive.</desc>
+  <programme start="20250922134143 +0000" stop="20250922140613 +0000" channel="jack-hanna">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Borneo’s Wildest</sub-title>
+    <desc>Jack visits the tropical island of Borneo in Malaysia and comes face-to-face with unique proboscis monkeys!</desc>
   </programme>
-  <programme start="20250921203415 +0000" stop="20250921205706 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Afri-Can You Believe It</sub-title>
-    <desc>Sheinelle Jones leads us back to Africa to spend the afternoon with its most amazing wildlife.</desc>
+  <programme start="20250922140613 +0000" stop="20250922143057 +0000" channel="jack-hanna">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Bocas del Toro</sub-title>
+    <desc>Poison dart frogs, snakes, jellyfish, sloths and so much more on this adventure to Panama’s Caribbean Coast!</desc>
   </programme>
-  <programme start="20250921205706 +0000" stop="20250921211957 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Favorite Families</sub-title>
-    <desc>Explore the planet to find our favorite furry, feathered, and flippered families of the animal kingdom.</desc>
+  <programme start="20250922143057 +0000" stop="20250922145528 +0000" channel="jack-hanna">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Billie Swamp Safari</sub-title>
+    <desc>Jack's uncovering alligator nests and wranglin’ big gators that need to be released back into the wild!</desc>
   </programme>
-  <programme start="20250921211957 +0000" stop="20250921214248 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Africa</sub-title>
-    <desc>Sheinelle Jones leads us on an adventure back to Africa to discover iconic animals of its diverse wildlife.</desc>
+  <programme start="20250922145528 +0000" stop="20250922152013 +0000" channel="jack-hanna">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Big Horn Transport</sub-title>
+    <desc>It’s moving day for Arizona’s bighorn sheep!</desc>
   </programme>
-  <programme start="20250921214248 +0000" stop="20250921220534 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Down Under</sub-title>
-    <desc>Sheinelle Jones leads us on a journey down under to discover the most iconic animals in its distinct wild.</desc>
-  </programme>
-  <programme start="20250921220534 +0000" stop="20250921222826 +0000" channel="xplore">
-    <title>Wildchild</title>
-    <sub-title>Tough Terrain</sub-title>
-    <desc>Sheinelle Jones takes us back through Asia to discover the most iconic members of it’s wild.</desc>
-  </programme>
-  <programme start="20250921222826 +0000" stop="20250921225304 +0000" channel="xplore">
-    <title>Ocean Mysteries with Jeff Corwin</title>
-    <sub-title>The Secrets of Venom</sub-title>
-    <desc>Jeff works with renowned biologists to collect, analyze, and understand the complex nature of sea snake venom.</desc>
+  <programme start="20250922152013 +0000" stop="20250922154501 +0000" channel="jack-hanna">
+    <title>Jack Hanna's Into the Wild</title>
+    <sub-title>Best of Zululand</sub-title>
+    <desc>Join Jungle Jack for an epic adventure into South Africa’s Zululand!</desc>
   </programme>
   <programme start="20250921225304 +0000" stop="20250921231724 +0000" channel="xplore">
     <title>Ocean Mysteries with Jeff Corwin</title>
@@ -7637,20 +7632,40 @@
     <sub-title>Best of Fiji</sub-title>
     <desc>Jack on Fijian adventures: island of goats, jewelry farm, shark diving, and unique wildlife.</desc>
   </programme>
-  <programme start="20250921190825 +0000" stop="20250921200619 +0000" channel="love-nature">
-    <title>Great Blue Wild</title>
-    <sub-title>Bahamas</sub-title>
-    <desc>From blue holes to manatees, discover the underwater world of the Bahamas.</desc>
+  <programme start="20250922131540 +0000" stop="20250922134016 +0000" channel="xplore">
+    <title>Jack Hanna's Passport</title>
+    <sub-title>Best of the Americas</sub-title>
+    <desc>Jack Hanna's family visits rheas and chinchillas, sloths, and feed manatees and foxes.</desc>
   </programme>
-  <programme start="20250921200619 +0000" stop="20250921210440 +0000" channel="love-nature">
-    <title>Babies of the Plains</title>
-    <sub-title>Babies of the Plains</sub-title>
-    <desc>Learn the rules of play, patience, and survival with Africa’s youngest wildlife.</desc>
+  <programme start="20250922134016 +0000" stop="20250922140436 +0000" channel="xplore">
+    <title>Jack Hanna's Passport</title>
+    <sub-title>A World of Surprises</sub-title>
+    <desc>Jack Hanna's family with Canadian bighorn sheep, Australian leeches, rare Malaysian pigs, and an adder snake.</desc>
   </programme>
-  <programme start="20250921210440 +0000" stop="20250921220311 +0000" channel="love-nature">
-    <title>Wonders of Nature</title>
-    <sub-title>Water Worlds</sub-title>
-    <desc>Experience the power of water, which shapes every area of life in the Seregeti.</desc>
+  <programme start="20250922140436 +0000" stop="20250922142846 +0000" channel="xplore">
+    <title>Oh Baby</title>
+    <sub-title>Feathered Friends</sub-title>
+    <desc>Go to the skies for a look at the beautiful birds that stand out in every corner of the globe.</desc>
+  </programme>
+  <programme start="20250922142846 +0000" stop="20250922145256 +0000" channel="xplore">
+    <title>Oh Baby</title>
+    <sub-title>Waterfront Favorites</sub-title>
+    <desc>Head down to the water’s edge for a visit with the most memorable mammals.</desc>
+  </programme>
+  <programme start="20250922145256 +0000" stop="20250922151707 +0000" channel="xplore">
+    <title>Oh Baby</title>
+    <sub-title>Mammal Mayhem</sub-title>
+    <desc>Baby animals that define ‘warm and fuzzy’ as we discover the cutest mammals.</desc>
+  </programme>
+  <programme start="20250922151707 +0000" stop="20250922154117 +0000" channel="xplore">
+    <title>Oh Baby</title>
+    <sub-title>Curious Characters</sub-title>
+    <desc>Janai Norman takes us into the wild to visit with the weirdest creatures.</desc>
+  </programme>
+  <programme start="20250922154117 +0000" stop="20250922160527 +0000" channel="xplore">
+    <title>Oh Baby</title>
+    <sub-title>Bold in the Cold</sub-title>
+    <desc>Trek through Earth’s coldest climates for a look at the animals that live there.</desc>
   </programme>
   <programme start="20250921220311 +0000" stop="20250921230528 +0000" channel="love-nature">
     <title>Chasing The Rains</title>
@@ -7732,40 +7747,20 @@
     <sub-title>Masked Bandits</sub-title>
     <desc>Follow capture teams to the Somali border to relocate 50 endangered antelope.</desc>
   </programme>
-  <programme start="20250921195218 +0000" stop="20250921201551 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Embark Upon New Beginnings</sub-title>
-    <desc>A Dachshund has a cracked tooth, a Beagle may have a tumor, and a Cocker Spaniel is experiencing dizziness.</desc>
+  <programme start="20250922131050 +0000" stop="20250922141416 +0000" channel="love-nature">
+    <title>Wild Caribbean</title>
+    <sub-title>Whales And Volcanoes</sub-title>
+    <desc>Find out why ocean creatures are attracted to the Caribbean’s volcanic terrain.</desc>
   </programme>
-  <programme start="20250921201551 +0000" stop="20250921203908 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Excess Baggage</sub-title>
-    <desc>Charlie the Golden Retriever is carrying an unusually large tumor that Dr. Boyd wants to remove.</desc>
+  <programme start="20250922141416 +0000" stop="20250922151613 +0000" channel="love-nature">
+    <title>Whale With Steve Backshall</title>
+    <sub-title>Ocean Hunters</sub-title>
+    <desc>Learn how whales combine sound, strategy, and teamwork to catch their prey.</desc>
   </programme>
-  <programme start="20250921203908 +0000" stop="20250921210241 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Family Matters</sub-title>
-    <desc>Dr. Boyd’s own large pup, Sarge, needs surgery to repair an ACL tear in his knee.</desc>
-  </programme>
-  <programme start="20250921210241 +0000" stop="20250921212559 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Feet to the Fire</sub-title>
-    <desc>Tiger the cat survived a tragic house fire and Dr. Boyd treats his burned paws to get him back on his feet.</desc>
-  </programme>
-  <programme start="20250921212559 +0000" stop="20250921214932 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Give Spleen a Chance</sub-title>
-    <desc>Dr. Bryer partners with the head vet tech to save Pomeranian puppy Ella from a deadly virus called parvo.</desc>
-  </programme>
-  <programme start="20250921214932 +0000" stop="20250921221250 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Golden Oldies</sub-title>
-    <desc>Charlie the Golden Retriever has a large tumor and Dr. Boyd schedules emergency surgery to save his life.</desc>
-  </programme>
-  <programme start="20250921221250 +0000" stop="20250921223723 +0000" channel="rovr-pets">
-    <title>Vets Saving Pets</title>
-    <sub-title>Heads or Tails</sub-title>
-    <desc>Arnold the Mastiff’s happy tail wagging keeps causing numerous tail injuries.</desc>
+  <programme start="20250922151613 +0000" stop="20250922161759 +0000" channel="love-nature">
+    <title>Wild Pacific Rescue</title>
+    <sub-title>Battle to Save a Sea Lion</sub-title>
+    <desc>Fight waves to find a sea lion in danger, and see an aging duck undergo surgery.</desc>
   </programme>
   <programme start="20250921223723 +0000" stop="20250921230116 +0000" channel="rovr-pets">
     <title>Lucky Dog</title>
@@ -7952,9 +7947,45 @@
     <sub-title>Summer Surprise</sub-title>
     <desc>Farid and George are surprising their twins with a dog. Will they be able to compromise?</desc>
   </programme>
-  <programme start="20250921193000 +0000" stop="20250921220000 +0000" channel="grit-xtra">
-    <title>The Stalking Moon</title>
-    <desc>Scout (Gregory Peck) rescues white woman (Eva Marie Saint) and her half-Indian son.</desc>
+  <programme start="20250922130809 +0000" stop="20250922133140 +0000" channel="rovr-pets">
+    <title>Ready, Set, Pet</title>
+    <sub-title>Shepherd vs Newfoundland</sub-title>
+    <desc>Rich and his son lost their German Shepherd and while it’s been, it's time to adopt a new dog.</desc>
+  </programme>
+  <programme start="20250922133140 +0000" stop="20250922135511 +0000" channel="rovr-pets">
+    <title>Ready, Set, Pet</title>
+    <sub-title>Sebastians Dream Kitty</sub-title>
+    <desc>5-year-old Sebastian has a Make-A-Wish to get an exotic cat that's curious, playful, and sweet.</desc>
+  </programme>
+  <programme start="20250922135511 +0000" stop="20250922141943 +0000" channel="rovr-pets">
+    <title>Ready, Set, Pet</title>
+    <sub-title>Ready for Responsibility</sub-title>
+    <desc>Two moms decide their daughters are ready for a dog, but will they be able to agree on the breed?</desc>
+  </programme>
+  <programme start="20250922141943 +0000" stop="20250922144336 +0000" channel="rovr-pets">
+    <title>Hope in the WIld</title>
+    <sub-title>The Loon and the Blonde Raccoon</sub-title>
+    <desc>Hope's team welcomes a rare blonde raccoon and Dr. Barry treats an injured loon.</desc>
+  </programme>
+  <programme start="20250922144336 +0000" stop="20250922150728 +0000" channel="rovr-pets">
+    <title>Hope in the WIld</title>
+    <sub-title>The Porcupine’s Progress</sub-title>
+    <desc>A porcupine with mange needs Hope’s help, and a mink is ready to return to the wild.</desc>
+  </programme>
+  <programme start="20250922150728 +0000" stop="20250922153121 +0000" channel="rovr-pets">
+    <title>Hope in the WIld</title>
+    <sub-title>The Year of the Raptor</sub-title>
+    <desc>Allison delves into falconry to become more adept with the raptors, and eagle releases have varying degrees of success.</desc>
+  </programme>
+  <programme start="20250922153121 +0000" stop="20250922155513 +0000" channel="rovr-pets">
+    <title>Hope in the WIld</title>
+    <sub-title>There's No Business Like Snow Business</sub-title>
+    <desc>A snowy owl prepares for a long journey north.</desc>
+  </programme>
+  <programme start="20250922155513 +0000" stop="20250922161906 +0000" channel="rovr-pets">
+    <title>Hope in the WIld</title>
+    <sub-title>Think Mink</sub-title>
+    <desc>An adorable mink named Murray captures the hears of Hope and her crew.</desc>
   </programme>
   <programme start="20250921220000 +0000" stop="20250922000000 +0000" channel="grit-xtra">
     <title>The Raid</title>
@@ -7988,35 +8019,20 @@
     <title>Red River</title>
     <desc>A cattle baron, his foster son, a gunfighter and a former slave drive a herd up the Chisholm Trail.</desc>
   </programme>
-  <programme start="20250921194036 +0000" stop="20250921201227 +0000" channel="the-rifleman">
-    <title>The Rifleman</title>
-    <sub-title>Death Trap</sub-title>
-    <desc>Lucas recognizes Dr. Battle as an ex-gunslinger with whom he once fought. He helps with a dying man, but Lucas and the doctor have unresolved anger.</desc>
+  <programme start="20250922150000 +0000" stop="20250922153000 +0000" channel="grit-xtra">
+    <title>Stories of the Century</title>
+    <sub-title>Billy the Kid</sub-title>
+    <desc>Matt teams with Pat Garrett after a large herd of horses is stolen.</desc>
   </programme>
-  <programme start="20250921201227 +0000" stop="20250921204420 +0000" channel="the-rifleman">
-    <title>The Rifleman</title>
-    <sub-title>The Queue</sub-title>
-    <desc>A Chinese man and his son fight prejudice as they try to open a laundry in North Fork.</desc>
+  <programme start="20250922153000 +0000" stop="20250922160000 +0000" channel="grit-xtra">
+    <title>Stories of the Century</title>
+    <sub-title>Frank and Jesse James</sub-title>
+    <desc>Matt and Frankie go to Kansas City to aid in the capture of outlaw brothers Frank and Jesse James.</desc>
   </programme>
-  <programme start="20250921204420 +0000" stop="20250921211632 +0000" channel="the-rifleman">
-    <title>The Rifleman</title>
-    <sub-title>The Sharpshooter</sub-title>
-    <desc>Lucas and Mark decide to enter a local turkey shoot to raise money to buy a ranch.</desc>
-  </programme>
-  <programme start="20250921211632 +0000" stop="20250921214840 +0000" channel="the-rifleman">
-    <title>The Rifleman</title>
-    <sub-title>Home Ranch</sub-title>
-    <desc>Cattle baron Oat Jackford orders his two cowboys to run Lucas McCain and his son off their ranch.</desc>
-  </programme>
-  <programme start="20250921214840 +0000" stop="20250921222044 +0000" channel="the-rifleman">
-    <title>The Rifleman</title>
-    <sub-title>The Marshal</sub-title>
-    <desc>The notorious Shelton rides into the town of North Fork to take revenge on an elderly Marshal who is now crippled and working for Lucas McCain.</desc>
-  </programme>
-  <programme start="20250921222044 +0000" stop="20250921225253 +0000" channel="the-rifleman">
-    <title>The Rifleman</title>
-    <sub-title>The Brother-In-Law</sub-title>
-    <desc>Johnny Gibbs, Lucas McCain's brother-in-law, visits the McCain ranch. Gibbs, a rodeo rider wanted by the law, begins stirring up trouble.</desc>
+  <programme start="20250922160000 +0000" stop="20250922163000 +0000" channel="grit-xtra">
+    <title>Stories of the Century</title>
+    <sub-title>Geronimo</sub-title>
+    <desc>The Apache chief leads a raid on a train depot, looking for weapons and provisions.</desc>
   </programme>
   <programme start="20250921225253 +0000" stop="20250921232453 +0000" channel="the-rifleman">
     <title>The Rifleman</title>
@@ -8153,9 +8169,30 @@
     <sub-title>The Raid</sub-title>
     <desc>When renegade Apaches wound Lucas, Marshall Torrance joins with a U.S. Marshall to form a rescue posse.</desc>
   </programme>
-  <programme start="20250921190000 +0000" stop="20250921210000 +0000" channel="mst3k">
-    <title>MST3K: Future War</title>
-    <desc>A man enslaved by aliens escapes to contemporary Los Angeles, where he is hunted by cyborgs and dinosaurs.</desc>
+  <programme start="20250922132055 +0000" stop="20250922135302 +0000" channel="the-rifleman">
+    <title>The Rifleman</title>
+    <sub-title>Boomerang</sub-title>
+    <desc>When a rancher dies after the bank forecloses the mortgage on his property, his son blames the banker for his father's death.</desc>
+  </programme>
+  <programme start="20250922135302 +0000" stop="20250922142523 +0000" channel="the-rifleman">
+    <title>The Rifleman</title>
+    <sub-title>The Mind Reader</sub-title>
+    <desc>When a wealthy rancher is killed, Mark suggests that they ask a mind reader to identify the murderer.</desc>
+  </programme>
+  <programme start="20250922142523 +0000" stop="20250922145722 +0000" channel="the-rifleman">
+    <title>The Rifleman</title>
+    <sub-title>The Patsy</sub-title>
+    <desc>A group of outlaws devise a plan to get rid of Lucas so that they can take over the town of North Fork.</desc>
+  </programme>
+  <programme start="20250922145722 +0000" stop="20250922152937 +0000" channel="the-rifleman">
+    <title>The Rifleman</title>
+    <sub-title>Bloodlines</sub-title>
+    <desc>After Lucas kills a mountain man in a brawl, his father arrives in North Fork to break his other boys out of jail and take revenge on Lucas and Marshall Torrance.</desc>
+  </programme>
+  <programme start="20250922152937 +0000" stop="20250922160134 +0000" channel="the-rifleman">
+    <title>The Rifleman</title>
+    <sub-title>The Blowout</sub-title>
+    <desc>Newly arrived gunslinger Al Walker throws a mammoth party at the saloon, keeping acting Marshall Ben Waller busy until Lucas is forced to intervene.</desc>
   </programme>
   <programme start="20250921210000 +0000" stop="20250921230000 +0000" channel="mst3k">
     <title>MST3K: Project Moonbase</title>
@@ -8193,25 +8230,9 @@
     <title>Cinematic Titanic: The Alien Factor</title>
     <desc>An alien spaceship has crashed in a town outside of Baltimore, and soon the townfolk are turning up dead.</desc>
   </programme>
-  <programme start="20250921190948 +0000" stop="20250921201548 +0000" channel="the-carol-burnett-show">
-    <title>The Best Of The Carol Burnett Show</title>
-    <sub-title>Alan King</sub-title>
-    <desc>Comedian Alan King guest stars as Carol's distracted psychiatrist.</desc>
-  </programme>
-  <programme start="20250921201548 +0000" stop="20250921204135 +0000" channel="the-carol-burnett-show">
-    <title>The Carol Burnett Show</title>
-    <sub-title>Dick Van Dyke, Tony Randall</sub-title>
-    <desc>Dick Van Dyke &amp; Tony Randall star! Includes Dick as a salesman, and Carol &amp; Tony as marrieds.</desc>
-  </programme>
-  <programme start="20250921204135 +0000" stop="20250921211218 +0000" channel="the-carol-burnett-show">
-    <title>The Carol Burnett Show</title>
-    <sub-title>Bob Newhart</sub-title>
-    <desc>Bob Newhart appears in &quot;Carol &amp; Sis&quot; as Roger's accountant. Also: a hungover Harvey gets a bigger headache.</desc>
-  </programme>
-  <programme start="20250921211218 +0000" stop="20250921221748 +0000" channel="the-carol-burnett-show">
-    <title>The Best Of The Carol Burnett Show</title>
-    <sub-title>Paul Lynde, Nanette Fabray</sub-title>
-    <desc>Paul Lynde and Nanette Fabray guest on the season finale, featuring an installment of &quot;As The Stomach Turns&quot;.</desc>
+  <programme start="20250922150000 +0000" stop="20250922170000 +0000" channel="mst3k">
+    <title>MST3K: The Million Eyes Of Sumuru</title>
+    <desc>Jonah's crew watch an evil woman bent on world domination in THE MILLION EYES OF SUMURU (1967).</desc>
   </programme>
   <programme start="20250921221748 +0000" stop="20250921225738 +0000" channel="the-carol-burnett-show">
     <title>The Carol Burnett Show</title>
@@ -8303,30 +8324,25 @@
     <sub-title>Joanne Woodward</sub-title>
     <desc>Guest star Joanne Woodward spends an evening with &quot;The Family&quot; in this episode.</desc>
   </programme>
-  <programme start="20250921194138 +0000" stop="20250921201358 +0000" channel="the-dick-van-dyke-show">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>Like a Sister</sub-title>
-    <desc>When Ric Vallone guest stars on &quot;The Alan Brady Show,&quot; Rob grows increasingly concerned that Sally is falling for the star.</desc>
+  <programme start="20250922134926 +0000" stop="20250922142426 +0000" channel="the-carol-burnett-show">
+    <title>The Carol Burnett Show</title>
+    <sub-title>Nanette Fabray</sub-title>
+    <desc>Nanette Fabray returns! Sketches include Carol and Nanette as precocious kids, and &quot;As The Stomach Turns.&quot;</desc>
   </programme>
-  <programme start="20250921201358 +0000" stop="20250921204410 +0000" channel="the-dick-van-dyke-show">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>The Secret Life of Buddy and Sally</sub-title>
-    <desc>Rob suspects that Buddy and Sally may be moonlighting for another comedy show or having an affair.</desc>
+  <programme start="20250922142426 +0000" stop="20250922145038 +0000" channel="the-carol-burnett-show">
+    <title>The Carol Burnett Show</title>
+    <sub-title>Kaye Stevens, Audrey Meadows</sub-title>
+    <desc>Kaye Stevens and Audrey Meadows guest star, featuring &quot;As The Stomach Turns&quot; and the &quot;10th Avenue Family.&quot;</desc>
   </programme>
-  <programme start="20250921204410 +0000" stop="20250921211628 +0000" channel="the-dick-van-dyke-show">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>A Bird in the Head Hurts</sub-title>
-    <desc>Ritchie claims he keeps being attacked by a giant woodpecker.</desc>
+  <programme start="20250922145038 +0000" stop="20250922152503 +0000" channel="the-carol-burnett-show">
+    <title>The Carol Burnett Show</title>
+    <sub-title>Anthony Newley, Dick Martin</sub-title>
+    <desc>Anthony Newley &amp; Dick Martin appear in a tribute to movie detectives, and Carol &amp; Vicki are ready to mingle.</desc>
   </programme>
-  <programme start="20250921211628 +0000" stop="20250921214844 +0000" channel="the-dick-van-dyke-show">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>Gesundheit, Darling</sub-title>
-    <desc>Rob begins to worry after neighbor Jerry suggests Rob's recent sneezing fits are psychosomatic expressions.</desc>
-  </programme>
-  <programme start="20250921214844 +0000" stop="20250921222102 +0000" channel="the-dick-van-dyke-show">
-    <title>The Dick Van Dyke Show</title>
-    <sub-title>A Man's Teeth Are Not His Own</sub-title>
-    <desc>Rob feels that he has betrayed his dentist friend, Jerry Helper, when he lets another dentist work on his teeth.</desc>
+  <programme start="20250922152503 +0000" stop="20250922155847 +0000" channel="the-carol-burnett-show">
+    <title>The Carol Burnett Show</title>
+    <sub-title>John Byner, Helen Reddy</sub-title>
+    <desc>John Byner &amp; Helen Reddy join Carol in a sketch about swingers. Also, The Family plays a game of &quot;Sorry!&quot;</desc>
   </programme>
   <programme start="20250921222102 +0000" stop="20250921225111 +0000" channel="the-dick-van-dyke-show">
     <title>The Dick Van Dyke Show</title>
@@ -8467,5 +8483,30 @@
     <title>The Dick Van Dyke Show</title>
     <sub-title>My Husband Is the Best One</sub-title>
     <desc>Rob's job is threatened by a news article praising him more than Alan for the success of The Alan Brady Show.</desc>
+  </programme>
+  <programme start="20250922130145 +0000" stop="20250922133353 +0000" channel="the-dick-van-dyke-show">
+    <title>The Dick Van Dyke Show</title>
+    <sub-title>The Lady and the Tiger and the Lawyer</sub-title>
+    <desc>When a handsome bachelor moves in next door, Rob and Laura become matchmakers.</desc>
+  </programme>
+  <programme start="20250922133353 +0000" stop="20250922140255 +0000" channel="the-dick-van-dyke-show">
+    <title>The Dick Van Dyke Show</title>
+    <sub-title>A Nice, Friendly Game of Cards</sub-title>
+    <desc>A social game of poker turns sour when it's discovered Rob has been playing with a marked deck.</desc>
+  </programme>
+  <programme start="20250922140255 +0000" stop="20250922143421 +0000" channel="the-dick-van-dyke-show">
+    <title>The Dick Van Dyke Show</title>
+    <sub-title>Happy Birthday and Too Many More</sub-title>
+    <desc>When Laura and Rob give Ritchie a birthday party, 63 screaming kids cause a ruckus at the Petrie house.</desc>
+  </programme>
+  <programme start="20250922143421 +0000" stop="20250922150420 +0000" channel="the-dick-van-dyke-show">
+    <title>The Dick Van Dyke Show</title>
+    <sub-title>The Brave and the Backache</sub-title>
+    <desc>Rob consults a psychiatrist to determine whether a series of mysterious ailments is psychosomatic.</desc>
+  </programme>
+  <programme start="20250922150420 +0000" stop="20250922153613 +0000" channel="the-dick-van-dyke-show">
+    <title>The Dick Van Dyke Show</title>
+    <sub-title>The Pen Is Mightier Than the Mouth</sub-title>
+    <desc>Rob and Buddy find themselves overworked when Sally becomes a television personality overnight.</desc>
   </programme>
 </tv>
